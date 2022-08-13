@@ -1,0 +1,49 @@
+diff --git a/layouts/partials/footer.html b/layouts/partials/footer.html
+index 8dee328..2a922a8 100644
+--- a/layouts/partials/footer.html
++++ b/layouts/partials/footer.html
+@@ -5,11 +5,6 @@
+     {{- else }}
+     <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a></span>
+     {{- end }}
+-    <span>
+-        Powered by
+-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+-        <a href="https://git.io/hugopapermod" rel="noopener" target="_blank">PaperMod</a>
+-    </span>
+ </footer>
+ {{- end }}
+ 
+diff --git a/layouts/partials/header.html b/layouts/partials/header.html
+index cc63659..95c144b 100644
+--- a/layouts/partials/header.html
++++ b/layouts/partials/header.html
+@@ -44,12 +44,12 @@
+         <div class="logo">
+             {{- $label_text := (.Site.Params.label.text | default .Site.Title) }}
+             {{- if .Site.Title }}
+-            <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
++            <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text | emojify }} (Alt + H)">
+                 {{- if .Site.Params.label.icon }}
+                 <img src="{{- .Site.Params.label.icon | absURL -}}" alt="logo" aria-label="logo"
+                     height="{{- .Site.Params.label.iconHeight | default " 30px" -}}">
+                 {{- end -}}
+-                {{- $label_text -}}
++                {{- $label_text | emojify -}}
+             </a>
+             {{- end }}
+             <span class="logo-switches">
+@@ -106,11 +106,11 @@
+             {{- $page_url:= $currentPage.Permalink | absLangURL }}
+             {{- $is_search := eq ($.Site.GetPage .KeyName).Layout `search` }}
+             <li>
+-                <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }} {{- cond $is_search (" (Alt + /)" | safeHTMLAttr) ("" | safeHTMLAttr ) }}"
++                <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name | emojify }} {{- cond $is_search (" (Alt + /)" | safeHTMLAttr) ("" | safeHTMLAttr ) }}"
+                 {{- cond $is_search (" accesskey=/" | safeHTMLAttr) ("" | safeHTMLAttr ) }}>
+                     <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
+                         {{- .Pre }}
+-                        {{- .Name -}}
++                        {{- .Name | emojify -}}
+                         {{ .Post -}}
+                     </span>
+                 </a>
