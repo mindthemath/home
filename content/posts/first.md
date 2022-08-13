@@ -1,21 +1,20 @@
 ---
-title: "Post Title"
-date: 2022-09-121T11:30:03+00:00
+title: "My 1st post"
+date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: []
-categories: []
-# author: ["Mathematical Michael"]
-showToc: true
+tags: ["first"]
+categories: ["none"]
+showToc: false
 TocOpen: false
 draft: false
+math: true
 hidemeta: false
 comments: false
 description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-ShareButtons: ["linkedin", "twitter", "reddit"]
 disableHLJS: false
 hideSummary: false
 searchHidden: false
@@ -24,15 +23,21 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
-UseHugoToc: true
+UseHugoToc: false
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    caption: "caption text for image above (hypothetically)" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/<path_to_repo>/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+## Nginx Setup
+
+Some useful nginx [config walkthrough][nginx] that helped me in the setup of a staging server to test out this website. I should migrate this link among many useful others (like my bookmarks...)
+
+[nginx]: https://hive.blog/tutorial/@mr-rigden/how-to-host-a-static-website-with-nginx

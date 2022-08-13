@@ -1,4 +1,4 @@
-baseURL: http://mindthemath.com/
+baseURL: http://clfx.cc/mm/
 languageCode: en-us
 title: Mind the Math
 theme: PaperMod
@@ -47,11 +47,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: ""
+    favicon16x16: ""
+    favicon32x32: ""
+    apple_touch_icon: ""
+    safari_pinned_tab: ""
 
   label:
     text: ":office:"
@@ -62,11 +62,11 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Mind the Math"
-    subtitle: "subtitle"
-    imageUrl: "<img location>"
+    subtitle: "Consulting for Computational Research"
+    imageUrl: "https://www.mathematicalmichael.com/img/profile.png"  # TODO image
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: profile-pic
     buttons:
       - name: Posts
         url: posts
@@ -79,14 +79,18 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: linkedin
-      url: "https://github.com/"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/mathematicalmichael/"
+    - name: instagram
+      url: "https://instagram.com/mathematicalmichael/"
+    - name: linkedin
+      url: "https://linkedin.com/in/mathematicalmichael"
+    - name: email
+      url: "mailto:mpilosov@gmail.com"
+    - name: twitter
+      url: "https://twitter.com/COmpMathematics"
+    # - name: instagram
+    #   url: "https://instagram.com/mind.the.math/"
 
   analytics:
     google:
@@ -124,16 +128,20 @@ menu:
       url: /search/
       weight: 100
     - identifier: categories
-      name: ":file_folder:"
+      name: ":open_file_folder:"
       url: /categories/
       weight: 10
     - identifier: tags
-      name: ":hash:"
+      name: ":label:"
       url: /tags/
       weight: 20
-    - identifier: example
+    - identifier: archive
+      name: ":mortar_board:"
+      url: https://michaelpilosov.com
+      weight: 40
+    - identifier: personal
       name: ":link:"
-      url: https://example.org
+      url: https://mathematicalmichael.com
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

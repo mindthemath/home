@@ -1,17 +1,17 @@
 ---
-title: "Post Title"
-date: 2022-09-121T11:30:03+00:00
+title: "My 1st blog post"
+date: 2020-09-15T11:30:03+00:00
 # weight: 1
-# aliases: ["/first"]
-tags: []
-categories: []
-# author: ["Mathematical Michael"]
+aliases: ["/post/first"]
+tags: ["first"]
+categories: ["blog"]
 showToc: true
 TocOpen: false
 draft: false
+math: true
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "Writings here"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -24,15 +24,20 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
-UseHugoToc: true
+UseHugoToc: false
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    caption: "<caption text>" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/<path_to_repo>/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+Here is some content.
+
+$$ \int f(x) dx$$
+:smile:
