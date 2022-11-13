@@ -1,2 +1,8 @@
 public/
+*.sw[opqr]
 *.lock
+.DS_Store
+.hugo_build.lock
+_gen
+*.jpg
+*.webp
