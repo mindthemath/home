@@ -31,13 +31,13 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/mindthemath/home/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
 
 ## Nginx Setup
 
-Some useful nginx [config walkthrough][nginx] that helped me in the setup of a staging server to test out this website. I should migrate this link among many useful others (like my bookmarks...)
+Some useful nginx [config walk-through][nginx] that helped me in the setup of a staging server to test out this website. 
 
 [nginx]: https://hive.blog/tutorial/@mr-rigden/how-to-host-a-static-website-with-nginx

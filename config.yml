@@ -1,4 +1,4 @@
-baseURL: http://clfx.cc/mm/
+baseURL: http://mindthemath.com/
 languageCode: en-us
 title: Mind the Math
 theme: PaperMod
@@ -19,7 +19,7 @@ minify:
 params:
   env: dev # to enable google analytics, opengraph, twitter-cards and schema.
   title: MindtheMath
-  description: "MindtheMath description"
+  description: "MindtheMath"
   keywords: [Blog, Portfolio, Math]
   author: ["Michael Pilosov"]
   # author: ["Me", "You"] # multiple authors
@@ -63,7 +63,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Mind the Math"
     subtitle: "Consulting for Computational Research"
-    imageUrl: "https://www.mathematicalmichael.com/img/profile.png"  # TODO image
+    # imageUrl: "https://www.mpilosov.com/profile.webp"  # TODO image
     imageWidth: 120
     imageHeight: 120
     imageTitle: profile-pic
@@ -80,15 +80,13 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/mathematicalmichael/"
-    - name: instagram
-      url: "https://instagram.com/mathematicalmichael/"
+      url: "https://github.com/mindthemath/"
+    - name: github
+      url: "https://github.com/ml-starter-packs/"
     - name: linkedin
       url: "https://linkedin.com/in/mathematicalmichael"
     - name: email
-      url: "mailto:mpilosov@gmail.com"
-    - name: twitter
-      url: "https://twitter.com/COmpMathematics"
+      url: "mailto:solutions@mindthemath.com"
     # - name: instagram
     #   url: "https://instagram.com/mind.the.math/"
 
@@ -128,21 +126,18 @@ menu:
       url: /search/
       weight: 100
     - identifier: categories
-      name: ":open_file_folder:"
+      name: "categories"
       url: /categories/
       weight: 10
     - identifier: tags
-      name: ":label:"
+      name: "tags"
       url: /tags/
       weight: 20
-    - identifier: archive
-      name: ":mortar_board:"
-      url: https://michaelpilosov.com
+    - identifier: resources
+      name: "resources"
+      url: /resources/
       weight: 40
-    - identifier: personal
-      name: ":link:"
-      url: https://mathematicalmichael.com
-      weight: 30
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

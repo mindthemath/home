@@ -1,7 +1,7 @@
 FROM docker.io/alpine:3.16.2
 #FROM arm64v8/alpine:3.16.2
 
-LABEL AUTHOR="Michael Pilosov <consistentbayes@gmail.com>"
+LABEL author="Michael Pilosov <consistentbayes@gmail.com>"
 
 # Install pygments (for syntax highlighting) and bash
 RUN apk update && \
@@ -28,7 +28,7 @@ RUN tar xzf /usr/local/hugo/${HUGO_BINARY}.tar.gz -C /usr/local/hugo/ \
     && rm /usr/local/hugo/${HUGO_BINARY}.tar.gz
 
 EXPOSE 1313
-CMD hugo version
+CMD ["hugo", "version"]
 
 ARG APP_USER="hugo"
 ARG APP_UID="1000"
