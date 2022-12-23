@@ -2,6 +2,7 @@ baseURL: http://mindthemath.com/
 languageCode: en-us
 title: Mind the Math
 theme: PaperMod
+copyright: "Mind the Math LLC"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -54,42 +55,49 @@ params:
     safari_pinned_tab: ""
 
   label:
-    text: ":office:"
+    text: "MTM"
     # icon: /apple-touch-icon.png
     iconHeight: 35
-
+  ######################################################
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Mind the Math"
-    subtitle: "Consulting for Computational Research"
+    subtitle: "Consulting for Clarity in Computational Complexity"
     # imageUrl: "https://www.mpilosov.com/profile.webp"  # TODO image
     imageWidth: 120
     imageHeight: 120
     imageTitle: profile-pic
     buttons:
+      - name: Workshops
+        url: workshops
+      # place for repo's writeup page
+      - name: Resources
+        url: resources
       - name: Posts
         url: posts
-      - name: Tags
-        url: tags
+
+  ######################################################
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: ""
+    Content: ""
 
+  ######################################################
   socialIcons:
     - name: github
       url: "https://github.com/mindthemath/"
-    - name: github
-      url: "https://github.com/ml-starter-packs/"
     - name: linkedin
       url: "https://linkedin.com/in/mathematicalmichael"
     - name: email
       url: "mailto:solutions@mindthemath.com"
+    # - name: github-alt
+    #   url: "https://github.com/ml-starter-packs/"
     # - name: instagram
     #   url: "https://instagram.com/mind.the.math/"
-
+  ######################################################
+  
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
@@ -119,6 +127,8 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+  
+######################################################
 menu:
   main:
     - identifier: search
@@ -133,10 +143,11 @@ menu:
       name: "tags"
       url: /tags/
       weight: 20
-    - identifier: resources
-      name: "resources"
-      url: /resources/
-      weight: 40
+    # - identifier: posts
+    #   name: "posts"
+    #   url: /post
+    #   weight: 40
+######################################################
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

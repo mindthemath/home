@@ -17,7 +17,7 @@ disableHLJS: true # to disable highlightjs
 disableShare: false
 ShareButtons: ["linkedin", "twitter", "reddit"]
 disableHLJS: false
-hideSummary: false
+hideSummary: true
 searchHidden: false
 ShowReadingTime: false
 ShowBreadCrumbs: true
