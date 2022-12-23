@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://mindthemath.com/sitemap.xml
