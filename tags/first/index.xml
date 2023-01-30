@@ -13,16 +13,7 @@
     <copyright>Mind the Math LLC</copyright>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="http://mindthemath.com/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My 1st blog post</title>
-      <link>http://mindthemath.com/blog/first/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/blog/first/</guid>
-      <description>Writings here</description>
-    </item>
-    
-    <item>
-      <title>My 1st post</title>
+      <title>Nginx Resources</title>
       <link>http://mindthemath.com/resources/staging/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       

@@ -11,7 +11,187 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Mind the Math LLC</copyright>
-    <lastBuildDate>Tue, 30 Aug 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://mindthemath.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jan 2023 11:30:03 +0000</lastBuildDate><atom:link href="http://mindthemath.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>best-practices</title>
+      <link>http://mindthemath.com/tags/best-practices/</link>
+      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/best-practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computational-reproducibility</title>
+      <link>http://mindthemath.com/tags/computational-reproducibility/</link>
+      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/computational-reproducibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>http://mindthemath.com/tags/docker/</link>
+      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker-compose</title>
+      <link>http://mindthemath.com/tags/docker-compose/</link>
+      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/docker-compose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>experiment-management</title>
+      <link>http://mindthemath.com/tags/experiment-management/</link>
+      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/experiment-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flask</title>
+      <link>http://mindthemath.com/tags/flask/</link>
+      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gunicorn</title>
+      <link>http://mindthemath.com/tags/gunicorn/</link>
+      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/gunicorn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jupyter-notebooks</title>
+      <link>http://mindthemath.com/tags/jupyter-notebooks/</link>
+      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/jupyter-notebooks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jupyterhub</title>
+      <link>http://mindthemath.com/tags/jupyterhub/</link>
+      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/jupyterhub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LaTeX</title>
+      <link>http://mindthemath.com/tags/latex/</link>
+      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/latex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mlflow</title>
+      <link>http://mindthemath.com/tags/mlflow/</link>
+      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/mlflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>posters</title>
+      <link>http://mindthemath.com/tags/posters/</link>
+      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/posters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>presentations</title>
+      <link>http://mindthemath.com/tags/presentations/</link>
+      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/presentations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>http://mindthemath.com/tags/python/</link>
+      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research-organization</title>
+      <link>http://mindthemath.com/tags/research-organization/</link>
+      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/research-organization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research-process</title>
+      <link>http://mindthemath.com/tags/research-process/</link>
+      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/research-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research-sharing</title>
+      <link>http://mindthemath.com/tags/research-sharing/</link>
+      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/research-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>streamlit</title>
+      <link>http://mindthemath.com/tags/streamlit/</link>
+      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/streamlit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>team-collaboration</title>
+      <link>http://mindthemath.com/tags/team-collaboration/</link>
+      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/team-collaboration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web-applications</title>
+      <link>http://mindthemath.com/tags/web-applications/</link>
+      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/web-applications/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>pandas</title>
       <link>http://mindthemath.com/tags/pandas/</link>
@@ -27,6 +207,42 @@
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>http://mindthemath.com/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>collaboration</title>
+      <link>http://mindthemath.com/tags/collaboration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/collaboration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>http://mindthemath.com/tags/git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matplotlib</title>
+      <link>http://mindthemath.com/tags/matplotlib/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/matplotlib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reproducible-research</title>
+      <link>http://mindthemath.com/tags/reproducible-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/reproducible-research/</guid>
       <description></description>
     </item>
     

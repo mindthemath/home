@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>reproducible-research on Mind the Math</title>
+    <link>http://mindthemath.com/tags/reproducible-research/</link>
+    <description>Recent content in reproducible-research on Mind the Math</description>
+    <image>
+      <url>http://mindthemath.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://mindthemath.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Mind the Math LLC</copyright><atom:link href="http://mindthemath.com/tags/reproducible-research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reproducible Research Papers</title>
+      <link>http://mindthemath.com/workshops/reproducible-papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/reproducible-papers/</guid>
+      <description>Making Your Research Reproducible with LaTeX and Containerization</description>
+    </item>
+    
+  </channel>
+</rss>
