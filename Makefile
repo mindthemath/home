@@ -6,7 +6,7 @@ serve-from-docker:
 
 stage:
 	hugo --baseURL=/mtm/stage && \
-	rsync -e 'ssh -p 10044' -azP --delete public/ mm@io.pvt:/data/media/www/mtm/stage/
+	rsync -e 'ssh -p 10044' -azP --delete public/ mm@io.local:/data/media/www/mtm/stage/
 
 stage-from-docker:
 	./docker/hugo.sh --baseURL=/mtm/stage && \
