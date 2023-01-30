@@ -1,7 +1,7 @@
 ---
 title: "Making Effective Posters and Presentations with LaTeX"
-date: 2023-01-29T11:30:03+00:00
-weight: 2
+# date: 2023-01-29T11:30:03+00:00
+weight: 4
 aliases: []
 tags: ["presentations", "posters", "LaTeX"]
 categories: ["workshops"]

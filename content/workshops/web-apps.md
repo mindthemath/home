@@ -1,7 +1,7 @@
 ---
 title: "Sharing Research with the Public: Interactive Web Applications"
-date: 2023-01-29T11:30:03+00:00
-weight: 2
+# date: 2023-01-29T11:30:03+00:00
+weight: 4
 aliases: []
 tags: ["web-applications", "research-sharing", "docker", "streamlit", "flask", "gunicorn", "python"]
 categories: ["workshops"]
@@ -56,9 +56,9 @@ At the end of this workshop, participants will be able to:
 - Share their research with the broader public using one of the options covered in the workshop
 
 ## Lesson Outline
-1. Introduction to the basics of how the web works
+1. Introduction to the basics of how the web works, what you need to know to share your work
 2. Understanding container technology for deploying web applications
-3. Overview of the options for sharing research, including streamlit, API endpoints with flask or gunicorn, and static web pages hosted on cloud providers
+3. Overview of the options for sharing research, including `streamlit`, API endpoints with `flask` and `gunicorn`, and static web pages hosted on cloud providers
 4. Hands-on demonstration of deploying a research app using one of the options covered in the workshop
 
 ## Workshop Format

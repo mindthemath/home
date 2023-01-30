@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Research Papers"
 # date: 2023-01-29T11:30:03+00:00
-# weight: 1
+weight: 1
 aliases: []
 tags: ["reproducible-research"]
 categories: ["workshops"]
@@ -90,3 +90,7 @@ By the end of this workshop, participants will learn how to:
 
 1. Presentation: 90 minutes covering the lesson plan above
 2. Application: An optional 3-8 hour "office hours" style hands-on component where participants can practice what they've learned and receive help with reproducing their own research. This section is limited to members of the same research groups/labs to tailor solutions to specific needs.
+
+
+now I want you to create an entire markdown file (in code block format) for a new lesson plan entitled "Version-Controlled Research" in which we'll cover the basics of git, how it relates to git repository hosting services (such as bitbucket, github, or a self-hosted open-source solution like gitea (if one requires that level of isolation)), and how it can address some of the pain points in the research process. Namely, by using git to track changes to the code that either conducts your research (if working on computational methods) or performs some sort of statistical analysis, students and PIs alike stand to benefit from being able to review code changes, go back in time to "when it worked", etc.
+
