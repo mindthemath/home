@@ -3,8 +3,8 @@ title: "Version-Controlled Research"
 # date: 2023-01-29T11:30:03+00:00
 # weight: 1
 aliases: []
-tags: ["version-controlled-research"]
-categories: ["workshops"]
+tags: ["git", "collaboration"]
+categories: ["workshops", "research"]
 showToc: true
 TocOpen: false
 draft: false
@@ -50,12 +50,6 @@ In this lesson plan, participants will learn about version control and how it re
 - Learn how to set up a Git repository and track changes to code and data
 - Explore the different options for Git repository hosting and the benefits and limitations of each
 - Understand how using Git can address some of the pain points in the research process
-
-## Materials
-
-- A computer with Git installed
-- A text editor (such as Sublime Text or Visual Studio Code)
-- Access to a Git repository hosting service (e.g. GitHub, Bitbucket, or Gitea)
 
 ## Lesson Outline
 
