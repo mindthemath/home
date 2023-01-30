@@ -1,13 +1,13 @@
 ---
-title: "My 1st blog post"
+title: "Test"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 aliases: ["/post/first"]
-tags: ["first"]
-categories: ["blog"]
+tags: ["test"]
+categories: ["test"]
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 math: true
 hidemeta: false
 comments: false
