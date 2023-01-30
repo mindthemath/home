@@ -10,12 +10,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Mind the Math LLC</copyright>
-    <lastBuildDate>Sun, 29 Jan 2023 11:30:03 +0000</lastBuildDate><atom:link href="http://mindthemath.com/tags/jupyter-notebooks/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Mind the Math LLC</copyright><atom:link href="http://mindthemath.com/tags/jupyter-notebooks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Effective Use of Jupyter Notebooks in Research Process</title>
       <link>http://mindthemath.com/workshops/jupyter/</link>
-      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/workshops/jupyter/</guid>
       <description>Learn the best practices for effectively using Jupyter notebooks in the research process to better organize and streamline your work.</description>

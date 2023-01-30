@@ -10,53 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Mind the Math LLC</copyright>
-    <lastBuildDate>Sun, 29 Jan 2023 11:30:03 +0000</lastBuildDate><atom:link href="http://mindthemath.com/categories/workshops/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Organizing Research with MLflow</title>
-      <link>http://mindthemath.com/workshops/experiment-tracking/</link>
-      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/workshops/experiment-tracking/</guid>
-      <description>Learn to use MLflow to track experiments and reproduce results in your research.</description>
-    </item>
-    
-    <item>
-      <title>Deploying JupyterHub with Docker-Compose: A Workshop for Academic Teams</title>
-      <link>http://mindthemath.com/workshops/jupyterhub/</link>
-      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/workshops/jupyterhub/</guid>
-      <description>Learn to deploy JupyterHub using docker-compose to improve computational reproducibility, facilitate team collaboration, and provide a flexible, OS-agnostic interface for research.</description>
-    </item>
-    
-    <item>
-      <title>Effective Use of Jupyter Notebooks in Research Process</title>
-      <link>http://mindthemath.com/workshops/jupyter/</link>
-      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/workshops/jupyter/</guid>
-      <description>Learn the best practices for effectively using Jupyter notebooks in the research process to better organize and streamline your work.</description>
-    </item>
-    
-    <item>
-      <title>Making Effective Posters and Presentations with LaTeX</title>
-      <link>http://mindthemath.com/workshops/presentations/</link>
-      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/workshops/presentations/</guid>
-      <description>Enhance Your Presentation Skills and Improve Your Research Communication with LaTeX</description>
-    </item>
-    
-    <item>
-      <title>Sharing Research with the Public: Interactive Web Applications</title>
-      <link>http://mindthemath.com/workshops/web-apps/</link>
-      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/workshops/web-apps/</guid>
-      <description>Learn to share your research with the broader public by creating interactive web applications using container technology, streamlit, flask, gunicorn, or static webpages.</description>
-    </item>
-    
+    <copyright>Mind the Math LLC</copyright><atom:link href="http://mindthemath.com/categories/workshops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reproducible Research Papers</title>
       <link>http://mindthemath.com/workshops/reproducible-papers/</link>
@@ -64,6 +18,15 @@
       
       <guid>http://mindthemath.com/workshops/reproducible-papers/</guid>
       <description>Making Your Research Reproducible with LaTeX and Containerization</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Data with Matplotlib</title>
+      <link>http://mindthemath.com/workshops/matplotlib/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/matplotlib/</guid>
+      <description>Effective Data Visualization with Python</description>
     </item>
     
     <item>
@@ -76,12 +39,48 @@
     </item>
     
     <item>
-      <title>Visualizing Data with Matplotlib</title>
-      <link>http://mindthemath.com/workshops/matplotlib/</link>
+      <title>Organizing Research with MLflow</title>
+      <link>http://mindthemath.com/workshops/mlflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mindthemath.com/workshops/matplotlib/</guid>
-      <description>Effective Data Visualization with Python</description>
+      <guid>http://mindthemath.com/workshops/mlflow/</guid>
+      <description>Learn to use MLflow to track experiments and reproduce results in your research.</description>
+    </item>
+    
+    <item>
+      <title>Making Effective Posters and Presentations with LaTeX</title>
+      <link>http://mindthemath.com/workshops/presentations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/presentations/</guid>
+      <description>Enhance Your Presentation Skills and Improve Your Research Communication with LaTeX</description>
+    </item>
+    
+    <item>
+      <title>Sharing Research with the Public: Interactive Web Applications</title>
+      <link>http://mindthemath.com/workshops/web-apps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/web-apps/</guid>
+      <description>Learn to share your research with the broader public by creating interactive web applications using container technology, streamlit, flask, gunicorn, or static webpages.</description>
+    </item>
+    
+    <item>
+      <title>Effective Use of Jupyter Notebooks in Research Process</title>
+      <link>http://mindthemath.com/workshops/jupyter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/jupyter/</guid>
+      <description>Learn the best practices for effectively using Jupyter notebooks in the research process to better organize and streamline your work.</description>
+    </item>
+    
+    <item>
+      <title>Deploying JupyterHub with Docker-Compose: A Workshop for Academic Teams</title>
+      <link>http://mindthemath.com/workshops/jupyterhub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/jupyterhub/</guid>
+      <description>Learn to deploy JupyterHub using docker-compose to improve computational reproducibility, facilitate team collaboration, and provide a flexible, OS-agnostic interface for research.</description>
     </item>
     
   </channel>

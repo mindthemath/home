@@ -2,97 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mindthemath.com/workshops/experiment-tracking/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
+    <loc>http://mindthemath.com/workshops/reproducible-papers/</loc>
   </url><url>
-    <loc>http://mindthemath.com/workshops/jupyterhub/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
+    <loc>http://mindthemath.com/workshops/matplotlib/</loc>
   </url><url>
-    <loc>http://mindthemath.com/workshops/jupyter/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
+    <loc>http://mindthemath.com/workshops/git/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/workshops/mlflow/</loc>
   </url><url>
     <loc>http://mindthemath.com/workshops/presentations/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://mindthemath.com/workshops/web-apps/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://mindthemath.com/tags/best-practices/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
+    <loc>http://mindthemath.com/workshops/jupyter/</loc>
   </url><url>
-    <loc>http://mindthemath.com/categories/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/computational-reproducibility/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/docker/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/docker-compose/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/experiment-management/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/flask/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/gunicorn/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/jupyter-notebooks/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/jupyterhub/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/latex/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/mlflow/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/posters/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/presentations/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/python/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/research-organization/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/research-process/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/research-sharing/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/streamlit/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/team-collaboration/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/web-applications/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/categories/workshops/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/workshops/</loc>
-    <lastmod>2023-01-29T11:30:03+00:00</lastmod>
+    <loc>http://mindthemath.com/workshops/jupyterhub/</loc>
   </url><url>
     <loc>http://mindthemath.com/resources/pd-set-copy/</loc>
+    <lastmod>2022-08-30T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/categories/</loc>
+    <lastmod>2022-08-30T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/</loc>
     <lastmod>2022-08-30T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://mindthemath.com/tags/pandas/</loc>
@@ -104,6 +36,9 @@
     <loc>http://mindthemath.com/resources/</loc>
     <lastmod>2022-08-30T11:30:03+00:00</lastmod>
   </url><url>
+    <loc>http://mindthemath.com/tags/</loc>
+    <lastmod>2022-08-30T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>http://mindthemath.com/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
@@ -113,24 +48,62 @@
     <loc>http://mindthemath.com/categories/web/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
+    <loc>http://mindthemath.com/tags/best-practices/</loc>
+  </url><url>
     <loc>http://mindthemath.com/tags/collaboration/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/computational-reproducibility/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/docker/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/docker-compose/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/experiment-management/</loc>
   </url><url>
     <loc>http://mindthemath.com/search/</loc>
   </url><url>
+    <loc>http://mindthemath.com/tags/flask/</loc>
+  </url><url>
     <loc>http://mindthemath.com/tags/git/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/gunicorn/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/jupyter-notebooks/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/jupyterhub/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/latex/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/matplotlib/</loc>
   </url><url>
+    <loc>http://mindthemath.com/tags/mlflow/</loc>
+  </url><url>
     <loc>http://mindthemath.com/resources/arch-aware-docker/</loc>
   </url><url>
-    <loc>http://mindthemath.com/workshops/reproducible-papers/</loc>
+    <loc>http://mindthemath.com/tags/posters/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/presentations/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/python/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/reproducible-research/</loc>
   </url><url>
     <loc>http://mindthemath.com/categories/research/</loc>
   </url><url>
-    <loc>http://mindthemath.com/workshops/git/</loc>
+    <loc>http://mindthemath.com/tags/research-organization/</loc>
   </url><url>
-    <loc>http://mindthemath.com/workshops/matplotlib/</loc>
+    <loc>http://mindthemath.com/tags/research-process/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/research-sharing/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/streamlit/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/team-collaboration/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/web-applications/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/categories/workshops/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/workshops/</loc>
   </url>
 </urlset>

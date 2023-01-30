@@ -10,12 +10,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Mind the Math LLC</copyright>
-    <lastBuildDate>Sun, 29 Jan 2023 11:30:03 +0000</lastBuildDate><atom:link href="http://mindthemath.com/tags/presentations/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Mind the Math LLC</copyright><atom:link href="http://mindthemath.com/tags/presentations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Making Effective Posters and Presentations with LaTeX</title>
       <link>http://mindthemath.com/workshops/presentations/</link>
-      <pubDate>Sun, 29 Jan 2023 11:30:03 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/workshops/presentations/</guid>
       <description>Enhance Your Presentation Skills and Improve Your Research Communication with LaTeX</description>
