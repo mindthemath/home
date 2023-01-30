@@ -1,7 +1,7 @@
 ---
 title: "Version-Controlled Research"
 # date: 2023-01-29T11:30:03+00:00
-# weight: 1
+weight: 2
 aliases: []
 tags: ["git", "collaboration"]
 categories: ["workshops", "research"]

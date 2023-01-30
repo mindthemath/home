@@ -1,7 +1,7 @@
 ---
 title: "Organizing Research with MLflow"
-date: 2023-01-29T11:30:03+00:00
-weight: 1
+# date: 2023-01-29T11:30:03+00:00
+weight: 3
 aliases: []
 tags: ["mlflow", "research-organization", "experiment-management"]
 categories: ["workshops"]
