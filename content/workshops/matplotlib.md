@@ -79,7 +79,7 @@ By the end of this workshop, students will be able to:
 
 ## Workshop Format
 
-The workshop is organized in the following comdules:
+The workshop is organized in the following modules:
 
 1. Presentation: A 50-80 minute presentation will provide an overview of the concepts and techniques for effective and organized plotting using matplotlib.
 
