@@ -5,18 +5,18 @@ tags: ["consulting", "contact", "communication"]
 categories: ["contact"]
 draft: false
 math: false
-hidemeta: false
+hidemeta: true
 comments: false
 description: "Get in touch with Mind the Math to learn how we can help you achieve your goals."
 disableHLJS: false
 disableShare: false
 ShareButtons: ["linkedin", "twitter", "reddit"]
 hideSummary: false
-searchHidden: false
+searchHidden: true
 ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
+ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:

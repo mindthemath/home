@@ -5,18 +5,18 @@ tags: ["consulting", "mathematics", "software development"]
 categories: ["about"]
 draft: false
 math: false
-hidemeta: false
+hidemeta: true
 comments: false
 description: "Learn about Mind the Math, a multidisciplinary consulting firm that specializes in bridging the gap between theory and applications."
 disableHLJS: false
 disableShare: false
 ShareButtons: ["linkedin", "twitter", "reddit"]
-hideSummary: false
+hideSummary: true
 searchHidden: false
 ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
+ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
