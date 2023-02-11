@@ -73,11 +73,11 @@ params:
         url: about
       - name: Services
         url: services
-      - name: Workshops
-        url: workshops
+      # - name: Workshops
+      #   url: workshops
       # place for repo's writeup page
-      - name: Resources
-        url: resources
+      # - name: Resources # TODO: make this a blog
+      #   url: resources
       - name: Contact
         url: contact
 
@@ -139,14 +139,18 @@ menu:
       name: ":mag:"
       url: /search/
       weight: 100
-    - identifier: categories
-      name: "categories"
-      url: /categories/
+    - identifier: workshops
+      name: "workshops"
+      url: /workshops/
       weight: 10
-    - identifier: tags
-      name: "tags"
-      url: /tags/
-      weight: 20
+    # - identifier: tags
+    #   name: "tags"
+    #   url: /tags/
+    #   weight: 20
+    - identifier: contact
+      name: "contact"
+      url: /contact/
+      weight: 50
     # - identifier: posts
     #   name: "posts"
     #   url: /post
