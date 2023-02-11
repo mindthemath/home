@@ -30,14 +30,5 @@
       <description>Desc Text.</description>
     </item>
     
-    <item>
-      <title>Post Title</title>
-      <link>http://mindthemath.com/resources/arch-aware-docker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/resources/arch-aware-docker/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
   </channel>
 </rss>
