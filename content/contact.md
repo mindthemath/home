@@ -1,3 +1,36 @@
+---
+title: "Contact Us"
+weight: 4
+tags: ["consulting", "contact", "communication"]
+categories: ["contact"]
+draft: false
+math: false
+hidemeta: false
+comments: false
+description: "Get in touch with Mind the Math to learn how we can help you achieve your goals."
+disableHLJS: false
+disableShare: false
+ShareButtons: ["linkedin", "twitter", "reddit"]
+hideSummary: false
+searchHidden: false
+ShowReadingTime: false
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: false
+cover:
+    image: ""
+    alt: ""
+    caption: ""
+    relative: false
+    hidden: false
+editPost:
+    URL: "https://github.com/mindthemath/home/tree/main/content/"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
+
 # Contact Us
 
 Thank you for your interest in Mind the Math. 
