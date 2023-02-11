@@ -1,5 +1,5 @@
 ---
-title: "About Mind the Math"
+title: "Mind the Math: Innovating at the Speed of Thought"
 weight: 1
 tags: ["consulting", "mathematics", "software development"]
 categories: ["about"]
@@ -30,8 +30,6 @@ editPost:
     Text: "Suggest Changes"
     appendFilePath: true
 ---
-
-# Mind the Math: Innovating at the Speed of Thought
 
 Welcome to Mind the Math, where innovation meets mathematics. 
 We are a multidisciplinary consulting firm that specializes in connecting the latest research in academia with the practical application of software development. 
