@@ -5,18 +5,18 @@ tags: ["consulting", "services", "training"]
 categories: ["services"]
 draft: false
 math: false
-hidemeta: false
+hidemeta: true
 comments: false
 description: "Learn about the services offered by Mind the Math, including talks and workshops on leveraging technology and training in data science and machine learning."
 disableHLJS: false
 disableShare: false
 ShareButtons: ["linkedin", "twitter", "reddit"]
-hideSummary: false
+hideSummary: true
 searchHidden: false
 ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
+ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
