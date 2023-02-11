@@ -1,3 +1,36 @@
+---
+title: "About Mind the Math"
+weight: 1
+tags: ["consulting", "mathematics", "software development"]
+categories: ["about"]
+draft: false
+math: false
+hidemeta: false
+comments: false
+description: "Learn about Mind the Math, a multidisciplinary consulting firm that specializes in bridging the gap between theory and applications."
+disableHLJS: false
+disableShare: false
+ShareButtons: ["linkedin", "twitter", "reddit"]
+hideSummary: false
+searchHidden: false
+ShowReadingTime: false
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: false
+cover:
+    image: ""
+    alt: ""
+    caption: ""
+    relative: false
+    hidden: false
+editPost:
+    URL: "https://github.com/mindthemath/home/tree/main/content/"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
+
 # Mind the Math: Innovating at the Speed of Thought
 
 Welcome to Mind the Math, where innovation meets mathematics. 
