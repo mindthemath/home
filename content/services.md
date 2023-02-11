@@ -1,3 +1,36 @@
+---
+title: "Our Services"
+weight: 2
+tags: ["consulting", "services", "training"]
+categories: ["services"]
+draft: false
+math: false
+hidemeta: false
+comments: false
+description: "Learn about the services offered by Mind the Math, including talks and workshops on leveraging technology and training in data science and machine learning."
+disableHLJS: false
+disableShare: false
+ShareButtons: ["linkedin", "twitter", "reddit"]
+hideSummary: false
+searchHidden: false
+ShowReadingTime: false
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: false
+cover:
+    image: ""
+    alt: ""
+    caption: ""
+    relative: false
+    hidden: false
+editPost:
+    URL: "https://github.com/mindthemath/home/tree/main/content/"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
+
 # Our Services
 
 At Mind the Math, we offer a range of services to help teams and organizations achieve their goals more effectively and efficiently. 
