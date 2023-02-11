@@ -69,13 +69,17 @@ params:
     imageHeight: 120
     imageTitle: profile-pic
     buttons:
+      - name: About
+        url: about
+      - name: Services
+        url: services
       - name: Workshops
         url: workshops
       # place for repo's writeup page
       - name: Resources
         url: resources
-      - name: Posts
-        url: posts
+      - name: Contact
+        url: contact
 
   ######################################################
 
