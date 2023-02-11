@@ -49,11 +49,38 @@
     </item>
     
     <item>
+      <title>communication</title>
+      <link>http://mindthemath.com/tags/communication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>computational-reproducibility</title>
       <link>http://mindthemath.com/tags/computational-reproducibility/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/tags/computational-reproducibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>consulting</title>
+      <link>http://mindthemath.com/tags/consulting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/consulting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>http://mindthemath.com/tags/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/contact/</guid>
       <description></description>
     </item>
     
@@ -139,6 +166,15 @@
     </item>
     
     <item>
+      <title>mathematics</title>
+      <link>http://mindthemath.com/tags/mathematics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/mathematics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>matplotlib</title>
       <link>http://mindthemath.com/tags/matplotlib/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -220,6 +256,24 @@
     </item>
     
     <item>
+      <title>services</title>
+      <link>http://mindthemath.com/tags/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software development</title>
+      <link>http://mindthemath.com/tags/software-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/software-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>streamlit</title>
       <link>http://mindthemath.com/tags/streamlit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -234,6 +288,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/tags/team-collaboration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>training</title>
+      <link>http://mindthemath.com/tags/training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/training/</guid>
       <description></description>
     </item>
     

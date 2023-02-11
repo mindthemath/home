@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://mindthemath.com/about/</loc>
+  </url><url>
     <loc>http://mindthemath.com/workshops/reproducible-papers/</loc>
   </url><url>
     <loc>http://mindthemath.com/workshops/matplotlib/</loc>
   </url><url>
+    <loc>http://mindthemath.com/services/</loc>
+  </url><url>
     <loc>http://mindthemath.com/workshops/git/</loc>
   </url><url>
     <loc>http://mindthemath.com/workshops/mlflow/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/contact/</loc>
   </url><url>
     <loc>http://mindthemath.com/workshops/presentations/</loc>
   </url><url>
@@ -48,11 +54,21 @@
     <loc>http://mindthemath.com/categories/web/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
+    <loc>http://mindthemath.com/categories/about/</loc>
+  </url><url>
     <loc>http://mindthemath.com/tags/best-practices/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/collaboration/</loc>
   </url><url>
+    <loc>http://mindthemath.com/tags/communication/</loc>
+  </url><url>
     <loc>http://mindthemath.com/tags/computational-reproducibility/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/consulting/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/contact/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/categories/contact/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/docker/</loc>
   </url><url>
@@ -73,6 +89,8 @@
     <loc>http://mindthemath.com/tags/jupyterhub/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/latex/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/mathematics/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/matplotlib/</loc>
   </url><url>
@@ -96,9 +114,17 @@
   </url><url>
     <loc>http://mindthemath.com/tags/research-sharing/</loc>
   </url><url>
+    <loc>http://mindthemath.com/tags/services/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/categories/services/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/software-development/</loc>
+  </url><url>
     <loc>http://mindthemath.com/tags/streamlit/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/team-collaboration/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/training/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/web-applications/</loc>
   </url><url>

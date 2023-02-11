@@ -13,6 +13,15 @@
     <copyright>Mind the Math LLC</copyright>
     <lastBuildDate>Tue, 30 Aug 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://mindthemath.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About Mind the Math</title>
+      <link>http://mindthemath.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/about/</guid>
+      <description>Learn about Mind the Math, a multidisciplinary consulting firm that specializes in bridging the gap between theory and applications.</description>
+    </item>
+    
+    <item>
       <title>Reproducible Research Papers</title>
       <link>http://mindthemath.com/workshops/reproducible-papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -31,6 +40,15 @@
     </item>
     
     <item>
+      <title>Our Services</title>
+      <link>http://mindthemath.com/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/services/</guid>
+      <description>Learn about the services offered by Mind the Math, including talks and workshops on leveraging technology and training in data science and machine learning.</description>
+    </item>
+    
+    <item>
       <title>Version-Controlled Research</title>
       <link>http://mindthemath.com/workshops/git/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -46,6 +64,15 @@
       
       <guid>http://mindthemath.com/workshops/mlflow/</guid>
       <description>Learn to use MLflow to track experiments and reproduce results in your research.</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://mindthemath.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/contact/</guid>
+      <description>Get in touch with Mind the Math to learn how we can help you achieve your goals.</description>
     </item>
     
     <item>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>consulting on Mind the Math</title>
+    <link>http://mindthemath.com/tags/consulting/</link>
+    <description>Recent content in consulting on Mind the Math</description>
+    <image>
+      <url>http://mindthemath.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://mindthemath.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Mind the Math LLC</copyright><atom:link href="http://mindthemath.com/tags/consulting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Mind the Math</title>
+      <link>http://mindthemath.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/about/</guid>
+      <description>Learn about Mind the Math, a multidisciplinary consulting firm that specializes in bridging the gap between theory and applications.</description>
+    </item>
+    
+    <item>
+      <title>Our Services</title>
+      <link>http://mindthemath.com/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/services/</guid>
+      <description>Learn about the services offered by Mind the Math, including talks and workshops on leveraging technology and training in data science and machine learning.</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://mindthemath.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/contact/</guid>
+      <description>Get in touch with Mind the Math to learn how we can help you achieve your goals.</description>
+    </item>
+    
+  </channel>
+</rss>
