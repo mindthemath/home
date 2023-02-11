@@ -1,5 +1,5 @@
 ---
-title: "Our Services"
+title: "Service Offerings"
 weight: 2
 tags: ["consulting", "services", "training"]
 categories: ["services"]
@@ -30,8 +30,6 @@ editPost:
     Text: "Suggest Changes"
     appendFilePath: true
 ---
-
-# Our Services
 
 At Mind the Math, we offer a range of services to help teams and organizations achieve their goals more effectively and efficiently. 
 Whether you're looking to improve your data science and machine learning skills, or you need help applying mathematics and software to real-world problems, we have the expertise to help.
