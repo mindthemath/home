@@ -1,5 +1,5 @@
 ---
-title: "Contact Us"
+title: "Get in Touch"
 weight: 4
 tags: ["consulting", "contact", "communication"]
 categories: ["contact"]
@@ -30,8 +30,6 @@ editPost:
     Text: "Suggest Changes"
     appendFilePath: true
 ---
-
-# Contact Us
 
 Thank you for your interest in Mind the Math. 
 We would love to hear from you and discuss how we can help you achieve your goals.
