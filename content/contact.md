@@ -36,10 +36,10 @@ We would love to hear from you and discuss how we can help you achieve your goal
 
 ## Get in Touch
 
-To learn more about our services and how we can help your team or organization, please fill out the form below or send us an email at [info@mindthemath.com](mailto:info@mindthemath.com). 
+To learn more about our services and how we can help your team or organization, please send us an email at [solutions@mindthemath.com](mailto:solutions@mindthemath.com). 
 One of our representatives will be in touch with you shortly.
 
 ## Connect with Us
 
-Stay up-to-date with the latest from Mind the Math by connecting with us on [LinkedIn](https://www.linkedin.com/company/mind-the-math/). 
+Stay up-to-date with the latest from Mind the Math by connecting with us on [LinkedIn](https://www.linkedin.com/in/mathematicalmichael/). 
 We look forward to connecting with you!
