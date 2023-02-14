@@ -1,7 +1,7 @@
 ---
 title: "Sharing Research with the Public: Interactive Web Applications"
 # date: 2023-01-29T11:30:03+00:00
-weight: 4
+weight: 45
 aliases: []
 tags: ["web-applications", "research-sharing", "docker", "streamlit", "flask", "gunicorn", "python"]
 categories: ["workshops"]

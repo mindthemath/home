@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Research Papers"
 # date: 2023-01-29T11:30:03+00:00
-weight: 1
+weight: 5
 aliases: []
 tags: ["reproducible-research"]
 categories: ["workshops"]

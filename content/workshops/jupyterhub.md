@@ -1,7 +1,7 @@
 ---
 title: "Deploying JupyterHub with Docker-Compose: A Workshop for Academic Teams"
 # date: 2023-01-29T11:30:03+00:00
-weight: 6
+weight: 25
 aliases: []
 tags: ["jupyterhub", "docker-compose", "computational-reproducibility", "team-collaboration"]
 categories: ["workshops"]

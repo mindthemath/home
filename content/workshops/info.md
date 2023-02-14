@@ -1,7 +1,7 @@
 ---
 title: "General Information About Workshops"
 # date: 2023-01-29T11:30:03+00:00
-weight: 0
+weight: 1
 aliases: []
 tags: ["general"]
 categories: ["workshops"]

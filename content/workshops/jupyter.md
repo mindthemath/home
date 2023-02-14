@@ -1,7 +1,7 @@
 ---
 title: "Effective Use of Jupyter Notebooks in Research Process"
 # date: 2023-01-29T11:30:03+00:00
-weight: 5
+weight: 30
 aliases: []
 tags: ["jupyter-notebooks", "research-process", "best-practices"]
 categories: ["workshops"]
