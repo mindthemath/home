@@ -13,6 +13,15 @@
     <copyright>Mind the Math LLC</copyright>
     <lastBuildDate>Tue, 30 Aug 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://mindthemath.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>General Information About Workshops</title>
+      <link>http://mindthemath.com/workshops/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/info/</guid>
+      <description>Learn how Mind the Math structures and prices its workshops.</description>
+    </item>
+    
+    <item>
       <title>Mind the Math: Innovating at the Speed of Thought</title>
       <link>http://mindthemath.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -20,24 +29,6 @@
       <guid>http://mindthemath.com/about/</guid>
       <description>Welcome to Mind the Math, where innovation meets mathematics. We are a multidisciplinary consulting firm that specializes in connecting the latest research in academia with the practical application of software development. Our goal is to help teams achieve their outcomes more effectively and efficiently by leveraging the power of technology.
 Michael Pilosov, PhD Mind the Math was founded by Michael Pilosov, a computational mathematician with a unique ability to bring together scientific and creative disciplines in real-world applications.</description>
-    </item>
-    
-    <item>
-      <title>Reproducible Research Papers</title>
-      <link>http://mindthemath.com/workshops/reproducible-papers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/workshops/reproducible-papers/</guid>
-      <description>Making Your Research Reproducible with LaTeX and Containerization</description>
-    </item>
-    
-    <item>
-      <title>Visualizing Data with Matplotlib</title>
-      <link>http://mindthemath.com/workshops/matplotlib/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/workshops/matplotlib/</guid>
-      <description>Effective Data Visualization with Python</description>
     </item>
     
     <item>
@@ -51,30 +42,30 @@ Workshops Our workshops are designed to educate and train teams in the latest me
     </item>
     
     <item>
-      <title>Version-Controlled Research</title>
-      <link>http://mindthemath.com/workshops/git/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/workshops/git/</guid>
-      <description>The Basics of Git and Repository Hosting Services for Better Research Tracking and Collaboration</description>
-    </item>
-    
-    <item>
-      <title>Organizing Research with MLflow</title>
-      <link>http://mindthemath.com/workshops/mlflow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/workshops/mlflow/</guid>
-      <description>Learn to use MLflow to track experiments and reproduce results in your research.</description>
-    </item>
-    
-    <item>
       <title>Get in Touch</title>
       <link>http://mindthemath.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/contact/</guid>
       <description>Get in touch with Mind the Math to learn how we can help you achieve your goals.</description>
+    </item>
+    
+    <item>
+      <title>Reproducible Research Papers</title>
+      <link>http://mindthemath.com/workshops/reproducible-papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/reproducible-papers/</guid>
+      <description>Making Your Research Reproducible with LaTeX and Containerization</description>
+    </item>
+    
+    <item>
+      <title>Version-Controlled Research</title>
+      <link>http://mindthemath.com/workshops/git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/git/</guid>
+      <description>The Basics of Git and Repository Hosting Services for Better Research Tracking and Collaboration</description>
     </item>
     
     <item>
@@ -87,12 +78,12 @@ Workshops Our workshops are designed to educate and train teams in the latest me
     </item>
     
     <item>
-      <title>Sharing Research with the Public: Interactive Web Applications</title>
-      <link>http://mindthemath.com/workshops/web-apps/</link>
+      <title>Deploying JupyterHub with Docker-Compose: A Workshop for Academic Teams</title>
+      <link>http://mindthemath.com/workshops/jupyterhub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mindthemath.com/workshops/web-apps/</guid>
-      <description>Learn to share your research with the broader public by creating interactive web applications using container technology, streamlit, flask, gunicorn, or static webpages.</description>
+      <guid>http://mindthemath.com/workshops/jupyterhub/</guid>
+      <description>Learn to deploy JupyterHub using docker-compose to improve computational reproducibility, facilitate team collaboration, and provide a flexible, OS-agnostic interface for research.</description>
     </item>
     
     <item>
@@ -105,12 +96,30 @@ Workshops Our workshops are designed to educate and train teams in the latest me
     </item>
     
     <item>
-      <title>Deploying JupyterHub with Docker-Compose: A Workshop for Academic Teams</title>
-      <link>http://mindthemath.com/workshops/jupyterhub/</link>
+      <title>Organizing Research with MLflow</title>
+      <link>http://mindthemath.com/workshops/mlflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mindthemath.com/workshops/jupyterhub/</guid>
-      <description>Learn to deploy JupyterHub using docker-compose to improve computational reproducibility, facilitate team collaboration, and provide a flexible, OS-agnostic interface for research.</description>
+      <guid>http://mindthemath.com/workshops/mlflow/</guid>
+      <description>Learn to use MLflow to track experiments and reproduce results in your research.</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Data with Matplotlib</title>
+      <link>http://mindthemath.com/workshops/matplotlib/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/matplotlib/</guid>
+      <description>Effective Data Visualization with Python</description>
+    </item>
+    
+    <item>
+      <title>Sharing Research with the Public: Interactive Web Applications</title>
+      <link>http://mindthemath.com/workshops/web-apps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/web-apps/</guid>
+      <description>Learn to share your research with the broader public by creating interactive web applications using container technology, streamlit, flask, gunicorn, or static webpages.</description>
     </item>
     
     <item>
@@ -131,15 +140,6 @@ Workshops Our workshops are designed to educate and train teams in the latest me
       <description>Desc Text.</description>
     </item>
     
-    
-    <item>
-      <title>General Information About Workshops</title>
-      <link>http://mindthemath.com/workshops/info/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/workshops/info/</guid>
-      <description>Learn how Mind the Math structures and prices its workshops.</description>
-    </item>
     
   </channel>
 </rss>

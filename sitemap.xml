@@ -2,27 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://mindthemath.com/workshops/info/</loc>
+  </url><url>
     <loc>http://mindthemath.com/about/</loc>
-  </url><url>
-    <loc>http://mindthemath.com/workshops/reproducible-papers/</loc>
-  </url><url>
-    <loc>http://mindthemath.com/workshops/matplotlib/</loc>
   </url><url>
     <loc>http://mindthemath.com/services/</loc>
   </url><url>
-    <loc>http://mindthemath.com/workshops/git/</loc>
-  </url><url>
-    <loc>http://mindthemath.com/workshops/mlflow/</loc>
-  </url><url>
     <loc>http://mindthemath.com/contact/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/workshops/reproducible-papers/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/workshops/git/</loc>
   </url><url>
     <loc>http://mindthemath.com/workshops/presentations/</loc>
   </url><url>
-    <loc>http://mindthemath.com/workshops/web-apps/</loc>
+    <loc>http://mindthemath.com/workshops/jupyterhub/</loc>
   </url><url>
     <loc>http://mindthemath.com/workshops/jupyter/</loc>
   </url><url>
-    <loc>http://mindthemath.com/workshops/jupyterhub/</loc>
+    <loc>http://mindthemath.com/workshops/mlflow/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/workshops/matplotlib/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/workshops/web-apps/</loc>
   </url><url>
     <loc>http://mindthemath.com/resources/pd-set-copy/</loc>
     <lastmod>2022-08-30T11:30:03+00:00</lastmod>
@@ -81,8 +83,6 @@
     <loc>http://mindthemath.com/tags/flask/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/general/</loc>
-  </url><url>
-    <loc>http://mindthemath.com/workshops/info/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/git/</loc>
   </url><url>

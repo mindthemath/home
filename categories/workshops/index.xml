@@ -12,21 +12,21 @@
     <language>en-us</language>
     <copyright>Mind the Math LLC</copyright><atom:link href="http://mindthemath.com/categories/workshops/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>General Information About Workshops</title>
+      <link>http://mindthemath.com/workshops/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/info/</guid>
+      <description>Learn how Mind the Math structures and prices its workshops.</description>
+    </item>
+    
+    <item>
       <title>Reproducible Research Papers</title>
       <link>http://mindthemath.com/workshops/reproducible-papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/workshops/reproducible-papers/</guid>
       <description>Making Your Research Reproducible with LaTeX and Containerization</description>
-    </item>
-    
-    <item>
-      <title>Visualizing Data with Matplotlib</title>
-      <link>http://mindthemath.com/workshops/matplotlib/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/workshops/matplotlib/</guid>
-      <description>Effective Data Visualization with Python</description>
     </item>
     
     <item>
@@ -39,39 +39,12 @@
     </item>
     
     <item>
-      <title>Organizing Research with MLflow</title>
-      <link>http://mindthemath.com/workshops/mlflow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/workshops/mlflow/</guid>
-      <description>Learn to use MLflow to track experiments and reproduce results in your research.</description>
-    </item>
-    
-    <item>
       <title>Making Effective Posters and Presentations with LaTeX</title>
       <link>http://mindthemath.com/workshops/presentations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/workshops/presentations/</guid>
       <description>Enhance Your Presentation Skills and Improve Your Research Communication with LaTeX</description>
-    </item>
-    
-    <item>
-      <title>Sharing Research with the Public: Interactive Web Applications</title>
-      <link>http://mindthemath.com/workshops/web-apps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/workshops/web-apps/</guid>
-      <description>Learn to share your research with the broader public by creating interactive web applications using container technology, streamlit, flask, gunicorn, or static webpages.</description>
-    </item>
-    
-    <item>
-      <title>Effective Use of Jupyter Notebooks in Research Process</title>
-      <link>http://mindthemath.com/workshops/jupyter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/workshops/jupyter/</guid>
-      <description>Learn the best practices for effectively using Jupyter notebooks in the research process to better organize and streamline your work.</description>
     </item>
     
     <item>
@@ -84,12 +57,39 @@
     </item>
     
     <item>
-      <title>General Information About Workshops</title>
-      <link>http://mindthemath.com/workshops/info/</link>
+      <title>Effective Use of Jupyter Notebooks in Research Process</title>
+      <link>http://mindthemath.com/workshops/jupyter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mindthemath.com/workshops/info/</guid>
-      <description>Learn how Mind the Math structures and prices its workshops.</description>
+      <guid>http://mindthemath.com/workshops/jupyter/</guid>
+      <description>Learn the best practices for effectively using Jupyter notebooks in the research process to better organize and streamline your work.</description>
+    </item>
+    
+    <item>
+      <title>Organizing Research with MLflow</title>
+      <link>http://mindthemath.com/workshops/mlflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/mlflow/</guid>
+      <description>Learn to use MLflow to track experiments and reproduce results in your research.</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Data with Matplotlib</title>
+      <link>http://mindthemath.com/workshops/matplotlib/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/matplotlib/</guid>
+      <description>Effective Data Visualization with Python</description>
+    </item>
+    
+    <item>
+      <title>Sharing Research with the Public: Interactive Web Applications</title>
+      <link>http://mindthemath.com/workshops/web-apps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/web-apps/</guid>
+      <description>Learn to share your research with the broader public by creating interactive web applications using container technology, streamlit, flask, gunicorn, or static webpages.</description>
     </item>
     
   </channel>
