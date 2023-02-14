@@ -3,7 +3,7 @@ title: "General Information About Workshops"
 # date: 2023-01-29T11:30:03+00:00
 weight: 1
 aliases: []
-tags: ["general"]
+tags: []
 categories: ["workshops"]
 showToc: false
 TocOpen: false
@@ -19,7 +19,7 @@ hideSummary: true
 searchHidden: false
 ShowReadingTime: false
 ShowBreadCrumbs: true
-ShowPostNavLinks: true
+ShowPostNavLinks: false
 ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: false
