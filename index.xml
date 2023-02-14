@@ -18,7 +18,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/about/</guid>
-      <description>Learn about Mind the Math, a multidisciplinary consulting firm that specializes in bridging the gap between theory and applications.</description>
+      <description>Welcome to Mind the Math, where innovation meets mathematics. We are a multidisciplinary consulting firm that specializes in connecting the latest research in academia with the practical application of software development. Our goal is to help teams achieve their outcomes more effectively and efficiently by leveraging the power of technology.
+Michael Pilosov, PhD Mind the Math was founded by Michael Pilosov, a computational mathematician with a unique ability to bring together scientific and creative disciplines in real-world applications.</description>
     </item>
     
     <item>
@@ -45,7 +46,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/services/</guid>
-      <description>Learn about the services offered by Mind the Math, including talks and workshops on leveraging technology and training in data science and machine learning.</description>
+      <description>At Mind the Math, we offer a range of services to help teams and organizations achieve their goals more effectively and efficiently. Whether you&amp;rsquo;re looking to improve your data science and machine learning skills, or you need help applying mathematics and software to real-world problems, we have the expertise to help.
+Workshops Our workshops are designed to educate and train teams in the latest methods and techniques for data science and machine learning.</description>
     </item>
     
     <item>
@@ -129,6 +131,15 @@
       <description>Desc Text.</description>
     </item>
     
+    
+    <item>
+      <title>General Information About Workshops</title>
+      <link>http://mindthemath.com/workshops/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/info/</guid>
+      <description>Learn how Mind the Math structures and prices its workshops.</description>
+    </item>
     
   </channel>
 </rss>

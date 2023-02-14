@@ -83,5 +83,14 @@
       <description>Learn to deploy JupyterHub using docker-compose to improve computational reproducibility, facilitate team collaboration, and provide a flexible, OS-agnostic interface for research.</description>
     </item>
     
+    <item>
+      <title>General Information About Workshops</title>
+      <link>http://mindthemath.com/workshops/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/info/</guid>
+      <description>Learn how Mind the Math structures and prices its workshops.</description>
+    </item>
+    
   </channel>
 </rss>
