@@ -7,7 +7,7 @@ draft: false
 math: false
 hidemeta: true
 comments: false
-description: "Learn about the services offered by Mind the Math, including talks and workshops on leveraging technology and training in data science and machine learning."
+# description: "Learn about the services offered by Mind the Math, including talks and workshops on leveraging technology and training in data science and machine learning."
 disableHLJS: false
 disableShare: false
 ShareButtons: ["linkedin", "twitter", "reddit"]
@@ -46,7 +46,8 @@ We offer a variety of topics, including:
 - Techniques for improving model performance and avoiding overfitting
 
 All of our workshops are tailored to your specific audience and needs, and can include presentation, discussion, hands-on components, and a focus on your use case. 
-For more information on the types of workshops we offer, please visit our [Workshops](/workshops) page.
+
+For more information on the types of workshops we offer, see the [Workshops](/workshops) page.
 
 ## Consulting
 
@@ -62,7 +63,9 @@ Our services include:
 ## Pricing
 
 At Mind the Math, we believe in transparent pricing. 
-Our workshops start at $2,500, and our consulting services start at $250 per hour. 
+Our [workshops](/workshops/) start at $3000, you can find detailed breakdowns on the [workshop information](/workshops/info/) page.
+
+Our consulting services start at $250 per hour.
 All prices are subject to customization based on the specific needs and requirements of each project.
 
 ## Get in Touch
