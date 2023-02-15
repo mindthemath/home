@@ -1,38 +1,19 @@
 ---
 title: "Deploying JupyterHub with Docker-Compose: A Workshop for Academic Teams"
-# date: 2023-01-29T11:30:03+00:00
 weight: 25
 aliases: []
-tags: ["jupyterhub", "docker-compose", "computational-reproducibility", "team-collaboration"]
+tags: ["jupyterhub", "docker-compose", "reproducibility", "collaboration"]
 categories: ["workshops"]
 showToc: true
-TocOpen: false
-draft: false
-math: false
-hidemeta: false
-comments: false
+TocOpen: true
 description: "Learn to deploy JupyterHub using docker-compose to improve computational reproducibility, facilitate team collaboration, and provide a flexible, OS-agnostic interface for research."
-disableHLJS: false # to disable highlightjs
-disableShare: false
-ShareButtons: ["linkedin", "twitter", "reddit"]
-hideSummary: true
-searchHidden: false
-ShowReadingTime: false
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: false
+hidemeta: false  # "suggest changes"
 cover:
     image: "" # image path/url
     alt: "<alt text>" # alt text
     caption: "<caption text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/mindthemath/home/tree/main/content/"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 

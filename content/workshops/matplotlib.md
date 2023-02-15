@@ -1,43 +1,19 @@
 ---
 title: "Visualizing Data with Matplotlib"
-# date: 2020-09-15T11:30:03+00:00
 weight: 35
 aliases: []
-tags: ["matplotlib"]
-categories: ["workshops"]
-showToc: false
-TocOpen: false
-draft: false
-math: true
-hidemeta: false
-comments: false
-description: "Effective Data Visualization with Python"
-# canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-ShareButtons: ["linkedin", "twitter", "reddit"]
-disableHLJS: false
-hideSummary: true
-searchHidden: false
-ShowReadingTime: false
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: false
+tags: ["matplotlib", "python"]
+categories: ["workshops", "visualization"]
+description: "Matplotlib for Effective Communication of Research with Data Visualization"
+showtoc: true
+hidemeta: false  # "suggest changes"
 cover:
     image: "" # image path/url
     alt: "<alt text>" # alt text
     caption: "<caption text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/mindthemath/home/tree/main/content/"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
-
-# Matplotlib for Effective Communication of Research
 
 ## Course Overview
 

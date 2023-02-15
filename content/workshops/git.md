@@ -1,43 +1,20 @@
 ---
-title: "Version-Controlled Research"
-# date: 2023-01-29T11:30:03+00:00
+title: "Git Fundamentals: Version-Control for Scientists"
 weight: 10
 aliases: []
 tags: ["git", "collaboration"]
 categories: ["workshops", "research"]
 showToc: true
 TocOpen: false
-draft: false
-math: true
-hidemeta: false
-comments: false
 description: "The Basics of Git and Repository Hosting Services for Better Research Tracking and Collaboration"
-# canonicalURL: "https://canonical.url/to/page"
-disableHLJS: false # to disable highlightjs
-disableShare: false
-ShareButtons: ["linkedin", "twitter", "reddit"]
-hideSummary: true
-searchHidden: false
-ShowReadingTime: false
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: false
+hidemeta: false  # "suggest changes"
 cover:
     image: "" # image path/url
     alt: "<alt text>" # alt text
     caption: "<caption text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/mindthemath/home/tree/main/content/"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
-
-
-# Version-Controlled Research
 
 ## Overview
 

@@ -2,9 +2,9 @@
 title: "About the Pandas SettingWithCopyWarning"
 date: 2022-08-30T11:30:03+00:00
 # weight: 1
-# aliases: ["/first"]
+aliases: ["pandas-warning"]
 tags: ["pandas"]
-categories: ["python"]
+categories: ["resources"]
 showToc: false
 TocOpen: false
 draft: false
@@ -12,7 +12,6 @@ math: true
 hidemeta: false
 comments: false
 description: "How to fix an annoying warning."
-canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -27,13 +26,9 @@ UseHugoToc: false
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
-    caption: "caption text for image above (hypothetically)" # display caption under cover
+    caption: "<image caption>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 

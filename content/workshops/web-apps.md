@@ -1,38 +1,17 @@
 ---
 title: "Sharing Research with the Public: Interactive Web Applications"
-# date: 2023-01-29T11:30:03+00:00
 weight: 45
 aliases: []
-tags: ["web-applications", "research-sharing", "docker", "streamlit", "flask", "gunicorn", "python"]
+tags: ["web-applications", "accessibility", "docker", "streamlit", "flask", "gunicorn", "python"]
 categories: ["workshops"]
-showToc: true
-TocOpen: false
-draft: false
-math: false
-hidemeta: false
-comments: false
-description: "Learn to share your research with the broader public by creating interactive web applications using container technology, streamlit, flask, gunicorn, or static webpages."
-disableHLJS: false # to disable highlightjs
-disableShare: false
-ShareButtons: ["linkedin", "twitter", "reddit"]
-hideSummary: true
-searchHidden: false
-ShowReadingTime: false
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: false
+description: "Learn to share your research with the broader public by creating interactive web applications."
+hidemeta: false  # "suggest changes"
 cover:
     image: "" # image path/url
     alt: "<alt text>" # alt text
     caption: "<caption text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/mindthemath/home/tree/main/content/"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 ## Overview

@@ -1,39 +1,17 @@
 ---
 title: "Making Effective Posters and Presentations with LaTeX"
-# date: 2023-01-29T11:30:03+00:00
 weight: 20
 aliases: []
 tags: ["presentations", "posters", "LaTeX"]
 categories: ["workshops"]
-showToc: true
-TocOpen: false
-draft: false
-math: true
-hidemeta: false
-comments: false
 description: "Enhance Your Presentation Skills and Improve Your Research Communication with LaTeX"
-# canonicalURL: "https://canonical.url/to/page"
-disableHLJS: false # to disable highlightjs
-disableShare: false
-ShareButtons: ["linkedin", "twitter", "reddit"]
-hideSummary: true
-searchHidden: false
-ShowReadingTime: false
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: false
+hidemeta: false  # "suggest changes"
 cover:
     image: "" # image path/url
     alt: "<alt text>" # alt text
     caption: "<caption text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/mindthemath/home/tree/main/content/"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 ## Overview

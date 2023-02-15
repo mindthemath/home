@@ -1,38 +1,19 @@
 ---
 title: "Effective Use of Jupyter Notebooks in Research Process"
-# date: 2023-01-29T11:30:03+00:00
 weight: 30
 aliases: []
 tags: ["jupyter-notebooks", "research-process", "best-practices"]
 categories: ["workshops"]
 showToc: true
-TocOpen: false
-draft: false
-math: false
-hidemeta: false
-comments: false
+TocOpen: true
 description: "Learn the best practices for effectively using Jupyter notebooks in the research process to better organize and streamline your work."
-disableHLJS: false # to disable highlightjs
-disableShare: false
-ShareButtons: ["linkedin", "twitter", "reddit"]
-hideSummary: true
-searchHidden: false
-ShowReadingTime: false
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: false
+hidemeta: false  # "suggest changes"
 cover:
     image: "" # image path/url
     alt: "<alt text>" # alt text
     caption: "<caption text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/mindthemath/home/tree/main/content/"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 Jupyter Notebooks are a powerful tool for researchers to organize and document their research process. In this workshop, we will cover best practices for using Jupyter Notebooks in research and provide hands-on demonstrations to help attendees better understand the benefits and limitations of this tool.

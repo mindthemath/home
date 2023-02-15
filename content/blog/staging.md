@@ -1,10 +1,10 @@
 ---
 title: "Nginx Resources"
-date: 2020-09-15T11:30:03+00:00
+date: 2022-12-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
-categories: ["web"]
+tags: ["servers", "nginx", "web"]
+categories: ["resources"]
 showToc: false
 TocOpen: false
 draft: false
@@ -27,13 +27,9 @@ UseHugoToc: false
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
-    caption: "caption text for image above (hypothetically)" # display caption under cover
+    caption: "<image caption>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/mindthemath/home/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 ## Nginx Setup

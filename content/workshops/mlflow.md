@@ -1,38 +1,17 @@
 ---
 title: "Organizing Research with MLflow"
-# date: 2023-01-29T11:30:03+00:00
 weight: 35
 aliases: []
 tags: ["mlflow", "research-organization", "experiment-management"]
 categories: ["workshops"]
-showToc: true
-TocOpen: false
-draft: false
-math: false
-hidemeta: false
-comments: false
 description: "Learn to use MLflow to track experiments and reproduce results in your research."
-disableHLJS: false # to disable highlightjs
-disableShare: false
-ShareButtons: ["linkedin", "twitter", "reddit"]
-hideSummary: true
-searchHidden: false
-ShowReadingTime: false
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: false
+hidemeta: false  # "suggest changes"
 cover:
     image: "" # image path/url
     alt: "<alt text>" # alt text
     caption: "<caption text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/mindthemath/home/tree/main/content/"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 ## Overview

@@ -20,29 +20,34 @@ minify:
 params:
   env: dev # to enable google analytics, opengraph, twitter-cards and schema.
   title: MindtheMath
-  description: "MindtheMath"
-  keywords: [Blog, Portfolio, Math]
+  description: ""
+  keywords: [Consulting, Mathematics, Computation]
   # author: ["Michael Pilosov"]
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "2006-01-02"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   ShowReadingTime: false
-  ShowShareButtons: true
+  ShowShareButtons: true  # global override of disableShare
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-  ShowWordCount: true
+  ShowWordCount: false
+  ShareButtons: ["linkedin", "twitter", "reddit"]
   ShowRssButtonInSectionTermList: true
-  UseHugoToc: true
+  UseHugoToc: false
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
   hidemeta: true
   hideSummary: true
+  searchHidden: false
   showtoc: false
   tocopen: false
-
+  editPost:
+      URL: "https://github.com/mindthemath/home/tree/main/content"
+      Text: "Suggest Changes" # edit text
+      appendFilePath: true # to append file path to Edit link
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
@@ -61,21 +66,21 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Mind the Math"
-    subtitle: "Consulting for Clarity in Computational Complexity"
+    subtitle: "Clarity for Computational Complexity"
     # imageUrl: "https://www.mpilosov.com/profile.webp"  # TODO image
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: profile-pic
+    # imageWidth: 120
+    # imageHeight: 120
+    # imageTitle: profile-pic
     buttons:
       - name: About
         url: about
       - name: Services
         url: services
-      # - name: Workshops
-      #   url: workshops
+      - name: Workshops
+        url: workshops
       # place for repo's writeup page
-      # - name: Resources # TODO: make this a blog
-      #   url: resources
+      - name: Resources # TODO: make this a blog
+        url: blog
       - name: Contact
         url: contact
 
@@ -83,8 +88,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: ""
-    Content: ""
+    Title: "Mind the Math"
+    Content: "Consulting for Clarity in Computational Complexity"
 
   ######################################################
   socialIcons:
@@ -137,21 +142,29 @@ menu:
       name: ":mag:"
       url: /search/
       weight: 100
-    - identifier: workshops
-      name: "workshops"
-      url: /workshops/
-      weight: 10
+    - identifier: blog
+      name: ":pen:"
+      url: /blog/
+      weight: 5
+    # - identifier: about
+    #   name: "about"
+    #   url: /about/
+    #   weight: 5
+    # - identifier: workshops
+    #   name: "workshops"
+    #   url: /workshops/
+    #   weight: 10
     # - identifier: tags
     #   name: "tags"
     #   url: /tags/
     #   weight: 20
     - identifier: contact
-      name: "contact"
+      name: ":email:"
       url: /contact/
       weight: 50
-    # - identifier: posts
-    #   name: "posts"
-    #   url: /post
+    # - identifier: blog
+    #   name: "blog"
+    #   url: /blog
     #   weight: 40
 ######################################################
 

@@ -1,38 +1,20 @@
 ---
 title: "General Information About Workshops"
-# date: 2023-01-29T11:30:03+00:00
 weight: 1
+keywords: [Blog, Portfolio, Math]
 aliases: []
 tags: []
 categories: ["workshops"]
-showToc: false
-TocOpen: false
-draft: false
-math: false
-hidemeta: true
-comments: false
-description: "Learn how Mind the Math structures and prices its workshops."
-disableHLJS: false # to disable highlightjs
-disableShare: true
+# description: "Learn how Mind the Math structures and prices its workshops."
 ShareButtons: ["linkedin", "twitter", "reddit"]
-hideSummary: true
-searchHidden: false
-ShowReadingTime: false
-ShowBreadCrumbs: true
+disableShare: true
 ShowPostNavLinks: false
-ShowWordCount: false
-ShowRssButtonInSectionTermList: false
-UseHugoToc: false
 cover:
-    image: "" # image path/url
+    image: "<https://files.clfx.cc/i/.png>" # image path/url
     alt: "<alt text>" # alt text
     caption: "<caption text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/mindthemath/home/tree/main/content/"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 # Workshop Structure
