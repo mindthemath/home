@@ -11,14 +11,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Mind the Math LLC</copyright>
-    <lastBuildDate>Tue, 30 Aug 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://mindthemath.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Dec 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://mindthemath.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>General Information About Workshops</title>
       <link>http://mindthemath.com/workshops/info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/workshops/info/</guid>
-      <description>Learn how Mind the Math structures and prices its workshops.</description>
+      <description>Workshop Structure Our workshops are tailored to meet the needs of each audience, and we offer a flexible pricing model to accommodate your budget.
+We offer three progressive workshop options:
+Learn (60-90m): This foundation is a lecture-style presentation, followed by a Q&amp;amp;A session. For groups under 25 particpants, there is no additional charge.
+Practice (Half-Day): In this option, we&amp;rsquo;ll go through a hands-on practical component to help participants get a better understanding of the material.</description>
     </item>
     
     <item>
@@ -42,12 +45,12 @@ Workshops Our workshops are designed to educate and train teams in the latest me
     </item>
     
     <item>
-      <title>Get in Touch</title>
+      <title>Contact</title>
       <link>http://mindthemath.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/contact/</guid>
-      <description>Get in touch with Mind the Math to learn how we can help you achieve your goals.</description>
+      <description>Get in Touch Thank you for your interest in Mind the Math. To learn more about our services and how we can help your team or organization, please send us an email at solutions@mindthemath.com.</description>
     </item>
     
     <item>
@@ -60,7 +63,7 @@ Workshops Our workshops are designed to educate and train teams in the latest me
     </item>
     
     <item>
-      <title>Version-Controlled Research</title>
+      <title>Git Fundamentals: Version-Control for Scientists</title>
       <link>http://mindthemath.com/workshops/git/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -110,7 +113,7 @@ Workshops Our workshops are designed to educate and train teams in the latest me
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/workshops/matplotlib/</guid>
-      <description>Effective Data Visualization with Python</description>
+      <description>Matplotlib for Effective Communication of Research with Data Visualization</description>
     </item>
     
     <item>
@@ -119,25 +122,25 @@ Workshops Our workshops are designed to educate and train teams in the latest me
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/workshops/web-apps/</guid>
-      <description>Learn to share your research with the broader public by creating interactive web applications using container technology, streamlit, flask, gunicorn, or static webpages.</description>
-    </item>
-    
-    <item>
-      <title>About the Pandas SettingWithCopyWarning</title>
-      <link>http://mindthemath.com/resources/pd-set-copy/</link>
-      <pubDate>Tue, 30 Aug 2022 11:30:03 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/resources/pd-set-copy/</guid>
-      <description>How to fix an annoying warning.</description>
+      <description>Learn to share your research with the broader public by creating interactive web applications.</description>
     </item>
     
     <item>
       <title>Nginx Resources</title>
-      <link>http://mindthemath.com/resources/staging/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <link>http://mindthemath.com/blog/staging/</link>
+      <pubDate>Thu, 15 Dec 2022 11:30:03 +0000</pubDate>
       
-      <guid>http://mindthemath.com/resources/staging/</guid>
+      <guid>http://mindthemath.com/blog/staging/</guid>
       <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>About the Pandas SettingWithCopyWarning</title>
+      <link>http://mindthemath.com/blog/pd-set-copy/</link>
+      <pubDate>Tue, 30 Aug 2022 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/blog/pd-set-copy/</guid>
+      <description>How to fix an annoying warning.</description>
     </item>
     
     

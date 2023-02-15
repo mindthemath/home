@@ -26,49 +26,48 @@
   </url><url>
     <loc>http://mindthemath.com/workshops/web-apps/</loc>
   </url><url>
-    <loc>http://mindthemath.com/resources/pd-set-copy/</loc>
-    <lastmod>2022-08-30T11:30:03+00:00</lastmod>
+    <loc>http://mindthemath.com/blog/</loc>
+    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://mindthemath.com/categories/</loc>
-    <lastmod>2022-08-30T11:30:03+00:00</lastmod>
+    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://mindthemath.com/</loc>
+    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/tags/nginx/</loc>
+    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/blog/staging/</loc>
+    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/categories/resources/</loc>
+    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/tags/servers/</loc>
+    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/tags/</loc>
+    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/tags/web/</loc>
+    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/blog/pd-set-copy/</loc>
     <lastmod>2022-08-30T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://mindthemath.com/tags/pandas/</loc>
     <lastmod>2022-08-30T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://mindthemath.com/categories/python/</loc>
-    <lastmod>2022-08-30T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/resources/</loc>
-    <lastmod>2022-08-30T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/</loc>
-    <lastmod>2022-08-30T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/first/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/resources/staging/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/categories/web/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
     <loc>http://mindthemath.com/categories/about/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/accessibility/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/best-practices/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/collaboration/</loc>
   </url><url>
-    <loc>http://mindthemath.com/tags/communication/</loc>
-  </url><url>
-    <loc>http://mindthemath.com/tags/computational-reproducibility/</loc>
-  </url><url>
     <loc>http://mindthemath.com/tags/consulting/</loc>
-  </url><url>
-    <loc>http://mindthemath.com/tags/contact/</loc>
   </url><url>
     <loc>http://mindthemath.com/categories/contact/</loc>
   </url><url>
@@ -102,9 +101,15 @@
   </url><url>
     <loc>http://mindthemath.com/tags/presentations/</loc>
   </url><url>
+    <loc>http://mindthemath.com/tags/publications/</loc>
+  </url><url>
     <loc>http://mindthemath.com/tags/python/</loc>
   </url><url>
-    <loc>http://mindthemath.com/tags/reproducible-research/</loc>
+    <loc>http://mindthemath.com/tags/reproducibility/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/reproduciblility/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/research/</loc>
   </url><url>
     <loc>http://mindthemath.com/categories/research/</loc>
   </url><url>
@@ -112,7 +117,7 @@
   </url><url>
     <loc>http://mindthemath.com/tags/research-process/</loc>
   </url><url>
-    <loc>http://mindthemath.com/tags/research-sharing/</loc>
+    <loc>http://mindthemath.com/tags/science/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/services/</loc>
   </url><url>
@@ -122,9 +127,9 @@
   </url><url>
     <loc>http://mindthemath.com/tags/streamlit/</loc>
   </url><url>
-    <loc>http://mindthemath.com/tags/team-collaboration/</loc>
-  </url><url>
     <loc>http://mindthemath.com/tags/training/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/categories/visualization/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/web-applications/</loc>
   </url><url>

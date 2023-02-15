@@ -11,22 +11,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Mind the Math LLC</copyright>
-    <lastBuildDate>Tue, 30 Aug 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://mindthemath.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Dec 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://mindthemath.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>python</title>
-      <link>http://mindthemath.com/categories/python/</link>
-      <pubDate>Tue, 30 Aug 2022 11:30:03 +0000</pubDate>
+      <title>resources</title>
+      <link>http://mindthemath.com/categories/resources/</link>
+      <pubDate>Thu, 15 Dec 2022 11:30:03 +0000</pubDate>
       
-      <guid>http://mindthemath.com/categories/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>web</title>
-      <link>http://mindthemath.com/categories/web/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/categories/web/</guid>
+      <guid>http://mindthemath.com/categories/resources/</guid>
       <description></description>
     </item>
     
@@ -63,6 +54,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/categories/services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visualization</title>
+      <link>http://mindthemath.com/categories/visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/categories/visualization/</guid>
       <description></description>
     </item>
     

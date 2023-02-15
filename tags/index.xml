@@ -11,7 +11,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Mind the Math LLC</copyright>
-    <lastBuildDate>Tue, 30 Aug 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://mindthemath.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Dec 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://mindthemath.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>nginx</title>
+      <link>http://mindthemath.com/tags/nginx/</link>
+      <pubDate>Thu, 15 Dec 2022 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>servers</title>
+      <link>http://mindthemath.com/tags/servers/</link>
+      <pubDate>Thu, 15 Dec 2022 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/servers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>http://mindthemath.com/tags/web/</link>
+      <pubDate>Thu, 15 Dec 2022 11:30:03 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/web/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>pandas</title>
       <link>http://mindthemath.com/tags/pandas/</link>
@@ -22,11 +49,11 @@
     </item>
     
     <item>
-      <title>first</title>
-      <link>http://mindthemath.com/tags/first/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <title>accessibility</title>
+      <link>http://mindthemath.com/tags/accessibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mindthemath.com/tags/first/</guid>
+      <guid>http://mindthemath.com/tags/accessibility/</guid>
       <description></description>
     </item>
     
@@ -49,38 +76,11 @@
     </item>
     
     <item>
-      <title>communication</title>
-      <link>http://mindthemath.com/tags/communication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/tags/communication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>computational-reproducibility</title>
-      <link>http://mindthemath.com/tags/computational-reproducibility/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/tags/computational-reproducibility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>consulting</title>
       <link>http://mindthemath.com/tags/consulting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/tags/consulting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>contact</title>
-      <link>http://mindthemath.com/tags/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/tags/contact/</guid>
       <description></description>
     </item>
     
@@ -211,6 +211,15 @@
     </item>
     
     <item>
+      <title>publications</title>
+      <link>http://mindthemath.com/tags/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>python</title>
       <link>http://mindthemath.com/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -220,11 +229,29 @@
     </item>
     
     <item>
-      <title>reproducible-research</title>
-      <link>http://mindthemath.com/tags/reproducible-research/</link>
+      <title>reproducibility</title>
+      <link>http://mindthemath.com/tags/reproducibility/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mindthemath.com/tags/reproducible-research/</guid>
+      <guid>http://mindthemath.com/tags/reproducibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reproduciblility</title>
+      <link>http://mindthemath.com/tags/reproduciblility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/reproduciblility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>http://mindthemath.com/tags/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/research/</guid>
       <description></description>
     </item>
     
@@ -247,11 +274,11 @@
     </item>
     
     <item>
-      <title>research-sharing</title>
-      <link>http://mindthemath.com/tags/research-sharing/</link>
+      <title>science</title>
+      <link>http://mindthemath.com/tags/science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mindthemath.com/tags/research-sharing/</guid>
+      <guid>http://mindthemath.com/tags/science/</guid>
       <description></description>
     </item>
     
@@ -279,15 +306,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/tags/streamlit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>team-collaboration</title>
-      <link>http://mindthemath.com/tags/team-collaboration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/tags/team-collaboration/</guid>
       <description></description>
     </item>
     
