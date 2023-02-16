@@ -68,8 +68,9 @@ params:
     title: "Mind the Math"
     subtitle: "Clarity for Computational Complexity"
     # imageUrl: "https://www.mpilosov.com/profile.webp"  # TODO image
-    # imageWidth: 120
-    # imageHeight: 120
+    imageUrl: "https://files.clfx.cc/i/mtm-logo-sm.png"
+    imageWidth: 150
+    imageHeight: 150
     # imageTitle: profile-pic
     buttons:
       - name: About
