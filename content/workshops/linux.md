@@ -23,9 +23,10 @@ Additionally, participants will learn about the basic architecture of Linux/Unix
 
 
 ## Motivations
-There are several key motivations for why PhD participants should learn the basics of GNU+Linux.
-First, the command-line is an essential tool for conducting research in a range of scientific fields, and mastering it can help to streamline and speed up the research process.
+Comfort with "the Terminal" is an essential skill for conducting research in a range of scientific fields, and mastering it can help to streamline and speed up the research process.
 Additionally, becoming proficient in GNU+Linux can open up new opportunities for collaboration and communication with other researchers, many of whom are likely already using Linux/Unix (i.e. MacOS), in their own work.
+
+There are many tasks that can be easily automated through the combination of freely available tools (e.g., image-resizing and cropping), awareness is often the limiting factor.
 Finally, working in the command-line can help participants to develop important technical skills that will be beneficial throughout their careers, and make them more marketable to potential employers.
 
 ## Learning Outcomes
