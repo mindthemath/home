@@ -163,6 +163,15 @@ Schedule a Call </description>
     </item>
     
     <item>
+      <title>Securing Docker Containers: Best Practices and Common Pitfalls</title>
+      <link>http://mindthemath.com/workshops/docker-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/docker-security/</guid>
+      <description>Learn the best practices for securing Docker containers, including managing access control, creating secure networks, and properly configuring port exposure.</description>
+    </item>
+    
+    <item>
       <title>How to Read and Navigate Research Papers</title>
       <link>http://mindthemath.com/workshops/papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

@@ -34,6 +34,8 @@
   </url><url>
     <loc>http://mindthemath.com/workshops/web-apps/</loc>
   </url><url>
+    <loc>http://mindthemath.com/workshops/docker-security/</loc>
+  </url><url>
     <loc>http://mindthemath.com/workshops/papers/</loc>
   </url><url>
     <loc>http://mindthemath.com/workshops/pdes/</loc>
@@ -87,7 +89,11 @@
   </url><url>
     <loc>http://mindthemath.com/categories/contact/</loc>
   </url><url>
+    <loc>http://mindthemath.com/tags/containers/</loc>
+  </url><url>
     <loc>http://mindthemath.com/categories/data-science/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/categories/devops/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/docker/</loc>
   </url><url>
@@ -122,6 +128,8 @@
     <loc>http://mindthemath.com/tags/metrics/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/mlflow/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/networking/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/numerical-methods/</loc>
   </url><url>
@@ -160,6 +168,8 @@
     <loc>http://mindthemath.com/tags/science/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/scipy/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/security/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/services/</loc>
   </url><url>
