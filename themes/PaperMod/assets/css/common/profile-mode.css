@@ -41,3 +41,22 @@
 .button:active {
     transform: scale(0.96);
 }
+
+/* make this call-to-action button taller but keep the text centered in it vertically and horizontally */
+.cta {
+    background: var(--tertiary);
+    border-radius: var(--radius);
+    margin: 8px;
+    padding: 6px;
+    transition: transform 0.1s;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+a.cta {
+    box-shadow: none;
+}

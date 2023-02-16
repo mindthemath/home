@@ -3,4 +3,4 @@
 {{ with .Get "relref" }}
   {{ $ref = relref $ . }}
 {{ end }}
-<a {{ with $ref }}href="{{.}}" {{ end }} {{ with $target }} target="{{.}}"{{ if eq $target "_blank" }} rel="noreferrer"{{ end }}{{ end }} class="button">{{- .Inner | safeHTML -}}</a>
+<a {{ with $ref }}href="{{.}}" {{ end }} {{ with $target }} target="{{.}}"{{ if eq $target "_blank" }} rel="noreferrer"{{ end }}{{ end }} class="cta">{{- .Inner | safeHTML -}}</a>
