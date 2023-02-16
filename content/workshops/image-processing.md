@@ -7,7 +7,7 @@ categories: ["workshops", "data-science"]
 description: "Learn the basics of digital image processing with Python, including the math behind images and common transformations."
 hidemeta: false
 cover:
-    image: "" # image path/url
+    image: "https://files.clfx.cc/i/dynamism-sm.jpg" # image path/url
     alt: "<alt text>" # alt text
     caption: "<caption text>" # display caption under cover
     relative: false # when using page bundles set this to true
