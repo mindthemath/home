@@ -57,7 +57,7 @@ $$\int_\Omega u v_t + \nabla u \cdot \nabla v - \int_{\partial \Omega} \alpha u 
 where \(u\) and \(v\) are functions in the Sobolev space \(H^1_0(\Omega)\) and \(f\) is a function. The left-hand side of this equation defines a bilinear form \(B(u,v)\). The first term in the integral is a linear form in \(v\), the second term is a bilinear form in \(u\) and \(v\), and the third term is a bilinear form in \(u\) and \(v\).
 
 
-The variational formulation of the heat equation can be derived by multiplying the PDE with a test function $v$ and integrating over the domain $\Omega$:
+The variational formulation of the heat equation can be derived by multiplying the PDE with a test function \(v\) and integrating over the domain \(\Omega\):
 
 $$
 \begin{aligned}
