@@ -49,12 +49,10 @@
     margin: 8px;
     padding: 6px;
     transition: transform 0.1s;
-    width: 100%;
-    display: inline-block;
+    display: block;
     text-align: center;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
+    line-height: 2;
+    font-size: 1.25em;
 }
 
 a.cta {
