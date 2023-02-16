@@ -37,7 +37,7 @@ Our goal is to help teams achieve their outcomes more effectively and efficientl
 
 ## Michael Pilosov, PhD
 
-Mind the Math was founded by [Michael Pilosov](https://mpilosov.com), a computational mathematician with a unique ability to bring together scientific and creative disciplines in real-world applications.
+Mind the Math was founded by [Michael Pilosov](https://mpilosov.com/#who-i-am), a computational mathematician with a unique ability to bring together scientific and creative disciplines in real-world applications.
 His background in _Uncertainty Quantification_ helped frame many practical engineering concerns (e.g. "how do we measure performance", "what data is useful?") when leading teams as a Machine Learning Architect to deliver predictive software for major technology companies.
 He has a deep understanding of both worlds, and he is an expert communicator who can "code-switch" with ease between the academic and business communities.
 
