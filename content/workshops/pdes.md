@@ -18,9 +18,13 @@ cover:
 ## Motivations
 Partial differential equations (PDEs) are essential tools for describing many natural phenomena, ranging from fluid dynamics to quantum mechanics.
 In recent years, there has been a growing interest in variational approaches to PDEs, which are based on the minimization of certain functionals defined on spaces of functions.
+
 These techniques have many advantages, including a rigorous mathematical foundation, strong connections with optimization and machine learning, and the ability to tackle problems that are difficult or even impossible to solve with other methods.
+
 The purpose of this workshop is to provide an introduction to the theory of variational PDEs, with a focus on the practical aspects of solving and analyzing these equations using Python.
+
 Participants will learn how to formulate and solve several classic problems in mathematical physics, such as the heat, wave, and Laplace equations, using variational techniques.
+
 They will also learn how to use modern software tools such as FEniCS and Jupyter notebooks to implement and visualize the solutions. By the end of the workshop, participants should have a good understanding of the basic concepts and techniques of variational PDEs, as well as the confidence to apply them to their own research problems.
 
 ## Learning Outcomes
@@ -31,13 +35,19 @@ Sobolev spaces are a type of function space that are used to study the regularit
 They are named after the Russian mathematician Sergei Sobolev, who introduced them in the 1930s.
 
 In this workshop, we will cover the basics of Sobolev spaces, including how they are defined, the different types of Sobolev spaces, and how they are used in the analysis of PDEs.
+
 We will also go over examples of PDEs and discuss how Sobolev spaces can be used to determine whether or not a solution exists and how smooth that solution is. By the end of the workshop, participants will have a solid understanding of Sobolev spaces and how they can be applied to the study of PDEs.
 
 
 ### Bilinear Forms
-Bilinear forms are important in functional analysis, particularly in the study of partial differential equations. The reason for this is that they provide a way of defining function spaces such as Sobolev spaces, which are central to the analysis of PDEs. By defining a bilinear form on a space of functions, we can use it to define a norm on that space, which in turn allows us to measure the size of functions in the space. 
+Bilinear forms are important in functional analysis, particularly in the study of partial differential equations.
+The reason for this is that they provide a way of defining function spaces such as Sobolev spaces, which are central to the analysis of PDEs.
 
-This is particularly useful when studying PDEs, as it allows us to formulate weak solutions of the PDE in terms of the bilinear form. Sobolev spaces are a class of function spaces that are particularly well-suited to this approach, and are defined in terms of a particular bilinear form known as the Sobolev inner product. By using bilinear forms to define function spaces, we can apply tools from functional analysis to the study of PDEs, and use this to obtain information about the behavior of solutions to these equations.
+By defining a bilinear form on a space of functions, we can use it to define a norm on that space, which in turn allows us to measure the size of functions in the space. 
+
+This is particularly useful when studying PDEs, as it allows us to formulate weak solutions of the PDE in terms of the bilinear form. Sobolev spaces are a class of function spaces that are particularly well-suited to this approach, and are defined in terms of a particular bilinear form known as the Sobolev inner product.
+
+By using bilinear forms to define function spaces, we can apply tools from functional analysis to the study of PDEs, and use this to obtain information about the behavior of solutions to these equations.
 
 
 A bilinear form is a function $$B:H^1_0(\Omega) \times H^1_0(\Omega) \rightarrow \mathbb{R}$$ that is linear in each of its arguments. For example, consider the following weak formulation of the heat equation:
@@ -106,10 +116,14 @@ By the end of the workshop, participants will have gained a strong foundational 
 
 ### FEM
 
-Finite element method (FEM) is a numerical technique used to approximate solutions to differential equations. It works by dividing a complex problem into smaller, simpler parts called finite elements. Then, the differential equations are converted into algebraic equations that can be solved to find the approximate solution for each element. These solutions are then combined to obtain an overall solution for the entire problem. Finite element method is often used for solving partial differential equations because it allows for the approximation of solutions in a more efficient and accurate manner compared to traditional analytical methods. FEM is widely used in engineering, physics, and applied mathematics.
+Finite element method (FEM) is a numerical technique used to approximate solutions to differential equations. It works by dividing a complex problem into smaller, simpler parts called finite elements. Then, the differential equations are converted into algebraic equations that can be solved to find the approximate solution for each element.These solutions are then combined to obtain an overall solution for the entire problem.
+
+The finite element method is often used for solving partial differential equations because it allows for the approximation of solutions in a more efficient and accurate manner compared to traditional analytical methods. FEM is widely used in engineering, physics, and applied mathematics.
 
 ## FDM
 
 Finite difference methods are one approach to solve partial differential equations (PDEs), including variational PDEs. They approximate derivatives by finite differences and convert the differential equations into algebraic equations, which can be solved numerically using a computer.
 
-Finite difference methods are a popular numerical method for solving partial differential equations, particularly those that are defined over a discrete grid of points. The method relies on approximating the derivatives of the function at each point on the grid using finite difference quotients. By using this approximation, the original partial differential equation can be transformed into a system of linear equations that can be solved numerically. Finite difference methods have a long history in numerical analysis and are particularly useful for solving problems in areas such as physics, engineering, and finance. However, the accuracy of the method depends heavily on the choice of discretization scheme and the size of the grid used, and careful consideration is required to ensure that the method is both accurate and computationally efficient.
+Finite difference methods are a popular numerical method for solving partial differential equations, particularly those that are defined over a discrete grid of points. The method relies on approximating the derivatives of the function at each point on the grid using finite difference quotients. By using this approximation, the original partial differential equation can be transformed into a system of linear equations that can be solved numerically. 
+
+Finite difference methods have a long history in numerical analysis and are particularly useful for solving problems in areas such as physics, engineering, and finance. However, the accuracy of the method depends heavily on the choice of discretization scheme and the size of the grid used, and careful consideration is required to ensure that the method is both accurate and computationally efficient.
