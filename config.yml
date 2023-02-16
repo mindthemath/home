@@ -144,7 +144,7 @@ menu:
       url: /search/
       weight: 100
     - identifier: blog
-      name: ":pen:"
+      name: "blog"
       url: /blog/
       weight: 5
     # - identifier: about
@@ -160,7 +160,7 @@ menu:
     #   url: /tags/
     #   weight: 20
     - identifier: contact
-      name: ":email:"
+      name: "contact"
       url: /contact/
       weight: 50
     # - identifier: blog
