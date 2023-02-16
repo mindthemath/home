@@ -1,7 +1,7 @@
 ---
 title: "Digital Image Processing with Python"
 weight: 21
-aliases: ["images"]
+aliases: ["images", "/images"]
 tags: ["image-processing", "python", "numpy", "scipy", "matplotlib"]
 categories: ["workshops", "data-science"]
 description: "Learn the basics of digital image processing with Python, including the math behind images and common transformations."
