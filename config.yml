@@ -80,8 +80,8 @@ params:
       - name: Workshops
         url: workshops
       # place for repo's writeup page
-      - name: Resources # TODO: make this a blog
-        url: blog
+      # - name: Resources
+      #   url: blog
       - name: Contact
         url: contact
 
