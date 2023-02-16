@@ -15,7 +15,7 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-## Course Overview
+## Overview
 
 This workshop will provide PhD students with the tools and techniques to effectively communicate their research results using Matplotlib, a powerful and versatile plotting library in Python. Students will learn how to use colormaps for colorblind accessibility, how to control label sizes and formatting legends, and how to think about manipulation of the visualizations they are trying to create.
 
