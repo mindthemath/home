@@ -148,6 +148,15 @@
     </item>
     
     <item>
+      <title>image-processing</title>
+      <link>http://mindthemath.com/tags/image-processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>jupyter-notebooks</title>
       <link>http://mindthemath.com/tags/jupyter-notebooks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -184,6 +193,15 @@
     </item>
     
     <item>
+      <title>machine learning</title>
+      <link>http://mindthemath.com/tags/machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>mathematics</title>
       <link>http://mindthemath.com/tags/mathematics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -202,11 +220,65 @@
     </item>
     
     <item>
+      <title>metrics</title>
+      <link>http://mindthemath.com/tags/metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/metrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>mlflow</title>
       <link>http://mindthemath.com/tags/mlflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/tags/mlflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>numerical methods</title>
+      <link>http://mindthemath.com/tags/numerical-methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/numerical-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>numpy</title>
+      <link>http://mindthemath.com/tags/numpy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/numpy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>packaging</title>
+      <link>http://mindthemath.com/tags/packaging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/packaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>papers</title>
+      <link>http://mindthemath.com/tags/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>physics</title>
+      <link>http://mindthemath.com/tags/physics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/physics/</guid>
       <description></description>
     </item>
     
@@ -238,11 +310,29 @@
     </item>
     
     <item>
+      <title>pypi</title>
+      <link>http://mindthemath.com/tags/pypi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/pypi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>python</title>
       <link>http://mindthemath.com/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading</title>
+      <link>http://mindthemath.com/tags/reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/reading/</guid>
       <description></description>
     </item>
     
@@ -297,6 +387,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/tags/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scipy</title>
+      <link>http://mindthemath.com/tags/scipy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/scipy/</guid>
       <description></description>
     </item>
     

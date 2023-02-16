@@ -20,5 +20,14 @@
       <description>Learn to deploy JupyterHub using docker-compose to improve computational reproducibility, facilitate team collaboration, and provide a flexible, OS-agnostic interface for research.</description>
     </item>
     
+    <item>
+      <title>How to Read and Navigate Research Papers</title>
+      <link>http://mindthemath.com/workshops/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/papers/</guid>
+      <description>Learn how to approach reading research papers, and how to try to reproduce results when code is (or isn&amp;#39;t) available.</description>
+    </item>
+    
   </channel>
 </rss>

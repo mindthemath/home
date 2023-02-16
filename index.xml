@@ -91,6 +91,24 @@ Schedule a Call </description>
     </item>
     
     <item>
+      <title>Metrics Menagerie: Understanding Metrics for Scientific and ML Applications</title>
+      <link>http://mindthemath.com/workshops/metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/metrics/</guid>
+      <description>Learn the mathematics behind formal metrics, distance calculations, and how to measure differences in distributions. Understand common metrics used across scientific disciplines and machine learning applications and how they relate to one another.</description>
+    </item>
+    
+    <item>
+      <title>Digital Image Processing with Python</title>
+      <link>http://mindthemath.com/workshops/image-processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/image-processing/</guid>
+      <description>Learn the basics of digital image processing with Python, including the math behind images and common transformations.</description>
+    </item>
+    
+    <item>
       <title>Deploying JupyterHub with Docker-Compose: A Workshop for Academic Teams</title>
       <link>http://mindthemath.com/workshops/jupyterhub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -118,6 +136,15 @@ Schedule a Call </description>
     </item>
     
     <item>
+      <title>Python Packaging Masterclass</title>
+      <link>http://mindthemath.com/workshops/packaging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/packaging/</guid>
+      <description>Learn how to package your Python code and publish it on PyPI for others to use.</description>
+    </item>
+    
+    <item>
       <title>Visualizing Data with Matplotlib</title>
       <link>http://mindthemath.com/workshops/matplotlib/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -133,6 +160,24 @@ Schedule a Call </description>
       
       <guid>http://mindthemath.com/workshops/web-apps/</guid>
       <description>Learn to share your research with the broader public by creating interactive web applications.</description>
+    </item>
+    
+    <item>
+      <title>How to Read and Navigate Research Papers</title>
+      <link>http://mindthemath.com/workshops/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/papers/</guid>
+      <description>Learn how to approach reading research papers, and how to try to reproduce results when code is (or isn&amp;#39;t) available.</description>
+    </item>
+    
+    <item>
+      <title>Variational PDEs</title>
+      <link>http://mindthemath.com/workshops/pdes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/pdes/</guid>
+      <description>Learn the basics of variational partial differential equations and their numerical solution. Understand the connection between functionals, the Euler-Lagrange equation, and PDEs. Gain familiarity with variational methods and the finite element method for the numerical solution of PDEs.</description>
     </item>
     
     <item>

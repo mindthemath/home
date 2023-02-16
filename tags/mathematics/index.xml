@@ -21,5 +21,23 @@
 Michael Pilosov, PhD Mind the Math was founded by Michael Pilosov, a computational mathematician with a unique ability to bring together scientific and creative disciplines in real-world applications.</description>
     </item>
     
+    <item>
+      <title>Metrics Menagerie: Understanding Metrics for Scientific and ML Applications</title>
+      <link>http://mindthemath.com/workshops/metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/metrics/</guid>
+      <description>Learn the mathematics behind formal metrics, distance calculations, and how to measure differences in distributions. Understand common metrics used across scientific disciplines and machine learning applications and how they relate to one another.</description>
+    </item>
+    
+    <item>
+      <title>Variational PDEs</title>
+      <link>http://mindthemath.com/workshops/pdes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/pdes/</guid>
+      <description>Learn the basics of variational partial differential equations and their numerical solution. Understand the connection between functionals, the Euler-Lagrange equation, and PDEs. Gain familiarity with variational methods and the finite element method for the numerical solution of PDEs.</description>
+    </item>
+    
   </channel>
 </rss>

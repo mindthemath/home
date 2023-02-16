@@ -12,6 +12,24 @@
     <language>en-us</language>
     <copyright>Mind the Math LLC</copyright><atom:link href="http://mindthemath.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Digital Image Processing with Python</title>
+      <link>http://mindthemath.com/workshops/image-processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/image-processing/</guid>
+      <description>Learn the basics of digital image processing with Python, including the math behind images and common transformations.</description>
+    </item>
+    
+    <item>
+      <title>Python Packaging Masterclass</title>
+      <link>http://mindthemath.com/workshops/packaging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/packaging/</guid>
+      <description>Learn how to package your Python code and publish it on PyPI for others to use.</description>
+    </item>
+    
+    <item>
       <title>Visualizing Data with Matplotlib</title>
       <link>http://mindthemath.com/workshops/matplotlib/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

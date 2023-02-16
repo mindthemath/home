@@ -18,15 +18,25 @@
   </url><url>
     <loc>http://mindthemath.com/workshops/presentations/</loc>
   </url><url>
+    <loc>http://mindthemath.com/workshops/metrics/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/workshops/image-processing/</loc>
+  </url><url>
     <loc>http://mindthemath.com/workshops/jupyterhub/</loc>
   </url><url>
     <loc>http://mindthemath.com/workshops/jupyter/</loc>
   </url><url>
     <loc>http://mindthemath.com/workshops/mlflow/</loc>
   </url><url>
+    <loc>http://mindthemath.com/workshops/packaging/</loc>
+  </url><url>
     <loc>http://mindthemath.com/workshops/matplotlib/</loc>
   </url><url>
     <loc>http://mindthemath.com/workshops/web-apps/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/workshops/papers/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/workshops/pdes/</loc>
   </url><url>
     <loc>http://mindthemath.com/blog/</loc>
     <lastmod>2022-12-15T11:30:03+00:00</lastmod>
@@ -63,6 +73,8 @@
   </url><url>
     <loc>http://mindthemath.com/categories/about/</loc>
   </url><url>
+    <loc>http://mindthemath.com/categories/academia/</loc>
+  </url><url>
     <loc>http://mindthemath.com/tags/accessibility/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/best-practices/</loc>
@@ -74,6 +86,8 @@
     <loc>http://mindthemath.com/tags/consulting/</loc>
   </url><url>
     <loc>http://mindthemath.com/categories/contact/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/categories/data-science/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/docker/</loc>
   </url><url>
@@ -89,6 +103,8 @@
   </url><url>
     <loc>http://mindthemath.com/tags/gunicorn/</loc>
   </url><url>
+    <loc>http://mindthemath.com/tags/image-processing/</loc>
+  </url><url>
     <loc>http://mindthemath.com/tags/jupyter-notebooks/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/jupyterhub/</loc>
@@ -97,11 +113,25 @@
   </url><url>
     <loc>http://mindthemath.com/tags/linux/</loc>
   </url><url>
+    <loc>http://mindthemath.com/tags/machine-learning/</loc>
+  </url><url>
     <loc>http://mindthemath.com/tags/mathematics/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/matplotlib/</loc>
   </url><url>
+    <loc>http://mindthemath.com/tags/metrics/</loc>
+  </url><url>
     <loc>http://mindthemath.com/tags/mlflow/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/numerical-methods/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/numpy/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/packaging/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/papers/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/physics/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/posters/</loc>
   </url><url>
@@ -109,7 +139,11 @@
   </url><url>
     <loc>http://mindthemath.com/tags/publications/</loc>
   </url><url>
+    <loc>http://mindthemath.com/tags/pypi/</loc>
+  </url><url>
     <loc>http://mindthemath.com/tags/python/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/reading/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/reproducibility/</loc>
   </url><url>
@@ -124,6 +158,8 @@
     <loc>http://mindthemath.com/tags/research-process/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/science/</loc>
+  </url><url>
+    <loc>http://mindthemath.com/tags/scipy/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/services/</loc>
   </url><url>
