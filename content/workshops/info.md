@@ -1,7 +1,7 @@
 ---
 title: "General Information About Workshops"
 weight: 1
-aliases: []
+aliases: ["/info", "about"]
 tags: []
 categories: ["workshops"]
 # description: "Learn how Mind the Math structures and prices its workshops."
@@ -9,7 +9,7 @@ ShareButtons: ["linkedin", "twitter", "reddit"]
 disableShare: true
 ShowPostNavLinks: false
 cover:
-    image: "<https://files.clfx.cc/i/.png>" # image path/url
+    image: "https://files.clfx.cc/i/conference-sm.jpg" # image path/url
     alt: "<alt text>" # alt text
     caption: "<caption text>" # display caption under cover
     relative: false # when using page bundles set this to true

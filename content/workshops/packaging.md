@@ -1,7 +1,7 @@
 ---
 title: "Python Packaging Masterclass"
 weight: 35
-aliases: []
+aliases: ["pypi", "/pypi", "/packaging"]
 tags: ["python", "packaging", "pypi"]
 categories: ["workshops"]
 description: "Learn how to package your Python code and publish it on PyPI for others to use."

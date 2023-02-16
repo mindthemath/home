@@ -1,7 +1,7 @@
 ---
 title: "Git Fundamentals: Version-Control for Scientists"
 weight: 10
-aliases: []
+aliases: ["/git"]
 tags: ["git", "collaboration"]
 categories: ["workshops", "research"]
 showToc: true

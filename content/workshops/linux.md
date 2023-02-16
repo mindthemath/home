@@ -1,7 +1,7 @@
 ---
 title: "Linux Fundamentals: Shells, Servers, and Software"
 weight: 10
-aliases: []
+aliases: ["/linux", "unix", "bash"]
 tags: ["linux", "command-line"]
 categories: ["workshops", "research"]
 showToc: true
@@ -9,7 +9,7 @@ TocOpen: false
 description: "Learn the Basics of GNU+Linux for More Effective Research"
 hidemeta: false  # "suggest changes"
 cover:
-    image: "" # image path/url
+    image: "https://files.clfx.cc/i/all-cores.jpg" # image path/url
     alt: "<alt text>" # alt text
     caption: "<aption text>" # display caption under cover
     relative: false # when using page bundles set this to true

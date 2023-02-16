@@ -1,7 +1,7 @@
 ---
 title: "Visualizing Data with Matplotlib"
 weight: 35
-aliases: []
+aliases: ["pyplot", "/pyplot", "/matplotlib"]
 tags: ["matplotlib", "python"]
 categories: ["workshops", "visualization"]
 description: "Matplotlib for Effective Communication of Research with Data Visualization"

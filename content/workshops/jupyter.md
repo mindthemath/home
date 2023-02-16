@@ -1,7 +1,7 @@
 ---
 title: "Effective Use of Jupyter Notebooks in Research Process"
 weight: 30
-aliases: []
+aliases: ["/jupyter"]
 tags: ["jupyter-notebooks", "research-process", "best-practices"]
 categories: ["workshops"]
 showToc: true

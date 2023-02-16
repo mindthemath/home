@@ -1,7 +1,7 @@
 ---
 title: "How to Read and Navigate Research Papers"
 weight: 110
-aliases: []
+aliases: ["/papers"]
 tags: ["research", "papers", "reading", "reproducibility"]
 categories: ["workshops", "academia"]
 description: "Learn how to approach reading research papers, and how to try to reproduce results when code is (or isn't) available."

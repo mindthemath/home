@@ -1,7 +1,7 @@
 ---
 title: "Metrics Menagerie: Understanding Metrics for Scientific and ML Applications"
 weight: 20
-aliases: ["metrics-melangerie"]
+aliases: ["/metrics", "metrics-melangerie", "/metrics-melangerie"]
 tags: ["metrics", "machine learning", "mathematics"]
 categories: ["workshops", "data science"]
 description: "Learn the mathematics behind formal metrics, distance calculations, and how to measure differences in distributions. Understand common metrics used across scientific disciplines and machine learning applications and how they relate to one another."

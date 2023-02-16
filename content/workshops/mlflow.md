@@ -1,7 +1,7 @@
 ---
 title: "Organizing Research with MLflow"
 weight: 35
-aliases: []
+aliases: ["/mlflow"]
 tags: ["mlflow", "research-organization", "experiment-management"]
 categories: ["workshops"]
 description: "Learn to use MLflow to track experiments and reproduce results in your research."

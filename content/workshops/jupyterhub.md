@@ -1,7 +1,7 @@
 ---
 title: "Deploying JupyterHub with Docker-Compose: A Workshop for Academic Teams"
 weight: 25
-aliases: []
+aliases: ["/jupyterhub", "/jhub", "jhub", "hub", "/hub"]
 tags: ["jupyterhub", "docker-compose", "reproducibility", "collaboration"]
 categories: ["workshops"]
 showToc: true

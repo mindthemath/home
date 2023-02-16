@@ -1,7 +1,7 @@
 ---
 title: "Securing Docker Containers: Best Practices and Common Pitfalls"
 weight: 100
-aliases: []
+aliases: ["/docker-security"]
 tags: ["docker", "security", "containers", "networking"]
 categories: ["workshops", "devops"]
 description: "Learn the best practices for securing Docker containers, including managing access control, creating secure networks, and properly configuring port exposure."

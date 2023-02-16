@@ -1,13 +1,13 @@
 ---
 title: "Sharing Research with the Public: Interactive Web Applications"
 weight: 45
-aliases: []
+aliases: ["websites", "/websites", "/web-apps"]
 tags: ["web-applications", "accessibility", "docker", "streamlit", "flask", "gunicorn", "python"]
 categories: ["workshops"]
 description: "Learn to share your research with the broader public by creating interactive web applications."
 hidemeta: false  # "suggest changes"
 cover:
-    image: "" # image path/url
+    image: "https://files.clfx.cc/i/presenting.jpg" # image path/url
     alt: "<alt text>" # alt text
     caption: "<caption text>" # display caption under cover
     relative: false # when using page bundles set this to true
