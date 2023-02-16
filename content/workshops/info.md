@@ -1,7 +1,6 @@
 ---
 title: "General Information About Workshops"
 weight: 1
-keywords: [Blog, Portfolio, Math]
 aliases: []
 tags: []
 categories: ["workshops"]
@@ -21,7 +20,7 @@ cover:
 
 Our workshops are tailored to meet the needs of each audience, and we offer a flexible pricing model to accommodate your budget.
 
-We offer three progressive workshop options:
+Most workshops are structured with the following three progressive modules:
 
 **Learn** (60-90m): This foundation is a lecture-style presentation, followed by a Q&A session. For groups under 25 particpants, there is no additional charge.
 
