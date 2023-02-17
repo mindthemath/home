@@ -11,14 +11,14 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-E53S7M4TME
 
 minify:
   disableXML: true
   minifyOutput: true
 
 params:
-  env: dev # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: MindtheMath
   description: ""
   keywords: [Consulting, Mathematics, Computation]
