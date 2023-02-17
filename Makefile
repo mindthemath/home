@@ -1,5 +1,5 @@
 serve:
-	hugo server --disableFastRender --port 1313
+	hugo server -D --disableFastRender --port 1313
 
 serve-from-docker:
 	./docker/hugo.sh server --disableFastRender --port 1313 --bind 0.0.0.0
