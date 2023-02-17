@@ -15,12 +15,16 @@ cover:
 ---
 
 ## Overview
-In this workshop, participants will learn about MLflow, an open source platform for the complete machine learning life cycle. The focus of the workshop will be on how to use MLflow to organize, track and reproduce research experiments, ensuring the reproducibility of results and enabling collaboration among research teams.
+In this workshop, participants will learn about MLflow, an open source platform for the complete machine learning life cycle.
+The focus of the workshop will be on how to use MLflow to organize, track and reproduce research experiments, ensuring the reproducibility of results and enabling collaboration among research teams.
 
 ## Motivations
-As a researcher practitioner, one faces numerous challenges when organizing and tracking experiments. Experimenting on different machines, with varying configurations and dependencies can lead to discrepancies in results and difficulties in reproducing results. Keeping track of multiple experiments and determining the best approach to a problem can also be a cumbersome task.
+As a researcher practitioner, one faces numerous challenges when organizing and tracking experiments.
+Experimenting on different machines, with varying configurations and dependencies can lead to discrepancies in results and difficulties in reproducing results.
+Keeping track of multiple experiments and determining the best approach to a problem can also be a cumbersome task.
 
-MLflow presents a solution to these challenges by providing a centralized platform for tracking experiments, organizing code and reproducing results. This makes research more efficient and trustworthy.
+MLflow presents a solution to these challenges by providing a centralized platform for tracking experiments, organizing code and reproducing results.
+This makes research more efficient and trustworthy.
 
 - The process of organizing and tracking research experiments becomes streamlined and simplified with MLflow.
 - A centralized platform for logging information related to models, such as parameters, code versions and results, is provided by MLflow.

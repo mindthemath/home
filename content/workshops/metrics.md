@@ -16,13 +16,18 @@ cover:
 
 ## Motivations
 
-In scientific research and data analysis, we often need to quantify and compare differences between data sets. Metrics, such as distances, divergences, and similarity scores, are essential mathematical tools for this task. They allow us to define and measure how different two data sets are, or how well a model fits a given dataset.
+In scientific research and data analysis, we often need to quantify and compare differences between data sets.
+Metrics, such as distances, divergences, and similarity scores, are essential mathematical tools for this task.
+They allow us to define and measure how different two data sets are, or how well a model fits a given dataset.
 
-In machine learning, metrics are commonly used to assess the performance of models, compare the accuracy of different algorithms, or to tune model parameters. But the same concepts and techniques are also useful in many other scientific disciplines, such as ecology, biology, physics, social sciences, and more.
+In machine learning, metrics are commonly used to assess the performance of models, compare the accuracy of different algorithms, or to tune model parameters.
+But the same concepts and techniques are also useful in many other scientific disciplines, such as ecology, biology, physics, social sciences, and more.
 
-However, choosing the right metric for a specific task can be a challenging task, especially when multiple metrics are available, and it is not always obvious which one is the most appropriate for a given problem. Moreover, different metrics often have different properties and assumptions, and they can yield very different results depending on the data being analyzed.
+However, choosing the right metric for a specific task can be a challenging task, especially when multiple metrics are available, and it is not always obvious which one is the most appropriate for a given problem.
+Moreover, different metrics often have different properties and assumptions, and they can yield very different results depending on the data being analyzed.
 
-The goal of this workshop is to introduce participants to the most commonly used metrics in scientific research and machine learning, and to provide them with a solid understanding of their mathematical properties, applications, and limitations. By the end of the workshop, participants will be able to select, apply, and interpret different metrics to compare data sets, assess the quality of models, and solve a wide range of data analysis problems.
+The goal of this workshop is to introduce participants to the most commonly used metrics in scientific research and machine learning, and to provide them with a solid understanding of their mathematical properties, applications, and limitations.
+By the end of the workshop, participants will be able to select, apply, and interpret different metrics to compare data sets, assess the quality of models, and solve a wide range of data analysis problems.
 
 ## Learning Outcomes
 

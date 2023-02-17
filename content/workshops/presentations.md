@@ -16,11 +16,16 @@ cover:
 
 ## Overview
 
-Presenting research to a scientific or academic audience can be a daunting task, especially if you are not confident in your communication skills. This workshop will provide you with the skills to enhance your presentation abilities and help you effectively communicate your research. We will cover the basics of presentation skills, as well as the use of LaTeX to create professional posters and presentations. Whether you are a student, a postdoctoral researcher, or a principal investigator, this workshop will help you communicate your research in a clear, concise, and visually appealing manner.
+Presenting research to a scientific or academic audience can be a daunting task, especially if you are not confident in your communication skills.
+This workshop will provide you with the skills to enhance your presentation abilities and help you effectively communicate your research.
+We will cover the basics of presentation skills, as well as the use of LaTeX to create professional posters and presentations.
+Whether you are a student, a postdoctoral researcher, or a principal investigator, this workshop will help you communicate your research in a clear, concise, and visually appealing manner.
 
 ## Motivations
 
-As researchers, it is crucial to communicate your findings effectively in order to have a meaningful impact on your field and on society. Whether you are presenting your work at a conference, publishing in a journal, or sharing your results with collaborators, it is essential to present your work in a way that is clear, concise, and visually appealing. With the increasing use of technology in scientific communication, it is important to be equipped with the skills to create professional posters and presentations using LaTeX, a powerful typesetting system that is widely used in the academic community.
+As researchers, it is crucial to communicate your findings effectively in order to have a meaningful impact on your field and on society.
+Whether you are presenting your work at a conference, publishing in a journal, or sharing your results with collaborators, it is essential to present your work in a way that is clear, concise, and visually appealing.
+With the increasing use of technology in scientific communication, it is important to be equipped with the skills to create professional posters and presentations using LaTeX, a powerful typesetting system that is widely used in the academic community.
 
 ## Learning Outcomes
 

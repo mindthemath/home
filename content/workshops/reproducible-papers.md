@@ -27,15 +27,24 @@ It's worth noting that reproducibility encompasses not just sharing code, but al
 
 ### Why Care About Reproducibility?
 
-Reproducibility is critical for scientific credibility and the validity of research findings. When your work can be easily reproduced by others, it increases the trust and confidence in your results. Moreover, reproducibility is important for your own benefit as well. You never know when you'll want to revisit your work in the future, or when you'll need to build on it. When your work is easily reproducible, it will be much easier for you to pick up where you left off. 
+Reproducibility is critical for scientific credibility and the validity of research findings. 
+When your work can be easily reproduced by others, it increases the trust and confidence in your results.
+
+Reproducibility is important for your own benefit as well.
+You never know when you'll want to revisit your work in the future, or when you'll need to build on it. 
+When your work is easily reproducible, it will be much easier for you to pick up where you left off. 
 
 ### Benefits for Your Future Self
 
-Research can be a challenging and time-consuming process, and one frustration researchers often encounter is not being able to easily find or recall the methods and data used to produce their results. By making your work reproducible, you can avoid this frustration and ensure a smooth experience when revisiting your work in the future.
+Research can be a challenging and time-consuming process, and one frustration researchers often encounter is not being able to easily find or recall the methods and data used to produce their results.
+By making your work reproducible, you can avoid this frustration and ensure a smooth experience when revisiting your work in the future.
 
-Having a clear, concise, and easily accessible record of your methodology and data will save you time and effort. You won't have to waste precious time retracing your steps or trying to figure out how you arrived at your results. This means that you can spend more time building upon your existing work and making new discoveries, rather than being bogged down by the tedious task of reconstructing your research.
+Having a clear, concise, and easily accessible record of your methodology and data will save you time and effort.
+You won't have to waste precious time retracing your steps or trying to figure out how you arrived at your results.
+This means that you can spend more time building upon your existing work and making new discoveries, rather than being bogged down by the tedious task of reconstructing your research.
 
-By adopting best practices in reproducibility, you'll also benefit your future self by fostering a sense of organization and structure in your research. This will make it easier for you to collaborate with others, share your work, and publish your findings, leading to a more impactful and successful research career.
+By adopting best practices in reproducibility, you'll also benefit your future self by fostering a sense of organization and structure in your research. 
+This will make it easier for you to collaborate with others, share your work, and publish your findings, leading to a more impactful and successful research career.
 
 In short, making your work reproducible will benefit both your current and future self, allowing you to focus on what truly matters - conducting groundbreaking research.
 

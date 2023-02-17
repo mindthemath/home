@@ -15,17 +15,22 @@ cover:
 ---
 
 ## Overview
-In this workshop, participants will learn about the process of sharing their research with the broader public through interactive web applications. This workshop will cover the basics of how the web works, what participants need to know about container technology to deploy their app on any cloud or server, and the various options available for sharing research, from full-featured applications built with streamlit, to API endpoints with flask or gunicorn, to simple static web pages hosted for free on cloud providers like GitHub Pages.
+In this workshop, participants will learn about the process of sharing their research with the broader public through interactive web applications.
+This workshop will cover the basics of how the web works, what participants need to know about container technology to deploy their app on any cloud or server.
+We will also cover various options available for sharing research, from full-featured applications built with streamlit, to API endpoints with flask or gunicorn, to simple static web pages hosted for free on cloud providers like GitHub Pages.
 
 Furthermore, for a hands-on component, we will demonstrate how to build a full-stack web application for conducting A/B testing on experimental results.
 Using a combination of `streamlit` for the front-end and `mlflow` for tracking and logging results, attendees will learn how to build and leverage a web app for answering their own research questions.
 
 ## Motivations
-Academics are often focused on conducting thorough and rigorous research, but may overlook the importance of sharing their findings with a wider audience. Sharing research results through interactive web applications not only makes it easier for the general public to access and understand the research, but can also improve the research process itself.
+Academics are often focused on conducting thorough and rigorous research, but may overlook the importance of sharing their findings with a wider audience. 
+Sharing research results through interactive web applications not only makes it easier for the general public to access and understand the research, but can also improve the research process itself.
 
-For example, an interactive web application can be used to present research results in an engaging and accessible manner, making the work more impactful and potentially reaching a larger audience. On the other hand, academics can also use these applications to orchestrate experiments and visualize results in a user-friendly interface, making it easier to analyze and interpret the data.
+For example, an interactive web application can be used to present research results in an engaging and accessible manner, making the work more impactful and potentially reaching a larger audience.
+On the other hand, academics can also use these applications to orchestrate experiments and visualize results in a user-friendly interface, making it easier to analyze and interpret the data.
 
-Sharing research results with the broader public is an important aspect of the scientific process. By making research results accessible and interactive, researchers can help people understand complex concepts, engage with the research community, and receive feedback and criticism that can help improve their work.
+Sharing research results with the broader public is an important aspect of the scientific process. 
+By making research results accessible and interactive, researchers can help people understand complex concepts, engage with the research community, and receive feedback and criticism that can help improve their work.
 
 ## Learning Outcomes
 At the end of this workshop, participants will be able to:
