@@ -18,7 +18,9 @@ cover:
 
 ## Overview
 
-In this lesson plan, participants will learn about version control and how it relates to research. We will cover the basics of using Git, a popular version control system, and explore how it can help researchers to manage their work more effectively. We will also discuss different Git repository hosting services, such as Bitbucket, GitHub, and open-source solutions like Gitea, and the benefits and limitations of each.
+In this workshop, participants will learn about version control and how it relates to research.
+We will cover the basics of using Git, a popular version control system, and explore how it can help researchers to manage their work more effectively.
+We will also discuss different Git repository hosting services, such as Bitbucket, GitHub, and open-source solutions like Gitea, and the benefits and limitations of each.
 
 ## Objectives
 
@@ -56,7 +58,8 @@ In this lesson plan, participants will learn about version control and how it re
 
 ## Learning Outcomes
 
-By the end of this lesson plan, participants should have a solid understanding of version control and Git, and be able to effectively use Git to manage their research projects. Whether you are a student or a PI, using version control can help you to be more organized, efficient, and collaborative in your research endeavors.
+By the end of this lesson plan, participants should have a solid understanding of version control and Git, and be able to effectively use Git to manage their research projects.
+Whether you are a student, PI, or data scientist in industry, using version control can help you to be more organized, efficient, and collaborative in your research endeavors.
 
 ## Workshop Format
 
