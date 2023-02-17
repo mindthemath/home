@@ -16,20 +16,28 @@ cover:
 
 
 ## Motivations
-Images are a fundamental way of representing and communicating information, and digital images have become ubiquitous in modern research. As an academic, you may be interested in analyzing images of all types, from analyzing microscopic images of cells to studying high-resolution images of galaxies.
+Images are a fundamental way of representing and communicating information, and digital images have become ubiquitous in modern research.
+As an academic, you may be interested in analyzing images of all types, from analyzing microscopic images of cells to studying high-resolution images of galaxies.
+As a data scientist in industry, you may be analyzing video footage and performing image recognition and classification.
 
-However, working with images is often a complex task, involving specialized software and tools. It can be challenging to manipulate images in a way that accurately reflects the information you are trying to extract. Furthermore, it can be difficult to ensure reproducibility in image analysis workflows.
+Working with images is often a complex task, involving specialized software and tools.
+It can be challenging to manipulate images in a way that accurately reflects the information you are trying to extract.
+Furthermore, it can be difficult to ensure reproducibility in image analysis workflows.
 
-This is where digital image processing with Python comes in. Python provides a powerful, flexible, and easy-to-use language for manipulating digital images. Whether you are working with one image or thousands, Python makes it easy to process, transform, and analyze images in a way that is both efficient and reproducible.
+This is where digital image processing with Python comes in.
+Python provides a powerful, flexible, and easy-to-use language for manipulating digital images.
+Whether you are working with one image or thousands, Python makes it easy to process, transform, and analyze images in a way that is both efficient and reproducible.
 
-In this workshop, we will cover the basics of digital image processing with Python. We will provide an introduction to the math behind digital images, and teach participants how to manipulate them with code. We will cover many common image transformations that are of interest to those analyzing datasets of images, such as scientists imaging slides under a microscope.
+In this workshop, we will cover the basics of digital image processing with Python.
+We will provide an introduction to the math behind digital images, and teach participants how to manipulate them with code.
+We will cover many common image transformations that are of interest to those analyzing datasets of images, be they of stars or cars.
 
 
 ## Learning Outcomes
 By the end of this lecture, you will have learned:
 
 - The basics of digital image processing, including color models and image transforms.
-- How to read, write, and display images using the Python pillow library.
+- How to read, write, and display images using `numpy`, `Pillow` and `OpenCV`.
 - How to transform pixels, resize images, and apply masks
 - How to apply some common image processing techniques to an image, such as smoothing, sharpening, and thresholding.
 - How to use Python to perform simple measurements and calculations on an image.
