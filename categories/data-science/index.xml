@@ -12,21 +12,21 @@
     <language>en-us</language>
     <copyright>Mind the Math LLC</copyright><atom:link href="http://mindthemath.com/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Metrics Menagerie: Understanding Metrics for Scientific and ML Applications</title>
-      <link>http://mindthemath.com/workshops/metrics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/workshops/metrics/</guid>
-      <description>Learn the mathematics behind formal metrics, distance calculations, and how to measure differences in distributions. Understand common metrics used across scientific disciplines and machine learning applications and how they relate to one another.</description>
-    </item>
-    
-    <item>
       <title>Digital Image Processing with Python</title>
       <link>http://mindthemath.com/workshops/image-processing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/workshops/image-processing/</guid>
       <description>Learn the basics of digital image processing with Python, including the math behind images and common transformations.</description>
+    </item>
+    
+    <item>
+      <title>Metrics Menagerie: Understanding Metrics for Scientific and ML Applications</title>
+      <link>http://mindthemath.com/workshops/metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/workshops/metrics/</guid>
+      <description>Learn the mathematics behind formal metrics, distance calculations, and how to measure differences in distributions. Understand common metrics used across scientific disciplines and machine learning applications and how they relate to one another.</description>
     </item>
     
   </channel>
