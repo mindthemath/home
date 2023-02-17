@@ -64,3 +64,5 @@ The workshop is organized in the following modules:
 3. Application: An optional 1-3 hour "office style" component will cover applying the lessons of module (2) towards their specific research goals. Students will bring examples of their own data visualization results and we will work on incorporating the lessons learned. This section also presents an opportunity for students to collaborate and identify common issues they face while plotting their data. By combining their efforts, they can save time on plotting results and focus more on communicating them effectively and rapidly.
 
 The hands-on and application components are designed to be supportive and interactive experiences, where students can ask questions, receive feedback, and work at their own pace. These components provide valuable opportunities for students to solidify their understanding of the material, apply it to real-world scenarios, and collaborate with their peers.
+
+See the [workshop structure](/workshops/info) page for more information about general workshop format.

@@ -69,3 +69,5 @@ The first is a one-hour poster critique session, where participants can apply th
 The second is a 2-4 hour hands-on session, where participants will work with web-based LaTeX software, such as Overleaf and MyBinder, to create their own posters. This session will provide participants with a more granular level of control over their computational environment, allowing them to experiment and refine their skills.
 
 By the end of the workshop, participants will have a solid understanding of how to use LaTeX for creating effective and professional-looking presentations and posters for their research.
+
+See the [workshop structure](/workshops/info) page for more information about general workshop format.

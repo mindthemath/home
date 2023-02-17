@@ -53,3 +53,5 @@ This workshop will be delivered through a combination of lectures, hands-on exer
 
 Participants will have access to a virtual machine with Linux already installed, so they can practice the skills they learn during the workshop.
 By the end of the workshop, students will have a solid understanding of the basics of GNU+Linux, as well as the skills and confidence they need to navigate new computational resources for their research.
+
+See the [workshop structure](/workshops/info) page for more information about general workshop format.

@@ -93,3 +93,5 @@ By following these best practices, you can make the most of Jupyter notebooks in
    - Summary of key concepts learned
    - Discussion of future directions for Jupyter Notebook usage in research
    - Q&A session to address any remaining questions
+
+See the [workshop structure](/workshops/info) page for more information about general workshop format.

@@ -48,4 +48,6 @@ At the end of this workshop, participants will be able to:
 
 ## Workshop Format
 1. Presetantation: The workshop will consist of a 45-minute presentation that covers the basics of MLflow and its benefits for organizing research experiments.
-2. Practice: An optional 1-2 hour workshop where participants will walk through the process of deploying MLflow alongside an artifact store and database by using docker-compose. This hands-on experience will give participants a practical understanding of how to use MLflow in their own research projects.
+2. Practice: An optional multi-hour hour workshop where participants will walk through the process of deploying MLflow alongside an artifact store and database by using docker-compose. This hands-on experience will give participants a practical understanding of how to use MLflow in their own research projects.
+
+See the [workshop structure](/workshops/info) page for more information about general workshop format.

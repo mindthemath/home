@@ -34,3 +34,7 @@ By the end of this lecture, you will have learned:
 - How to apply some common image processing techniques to an image, such as smoothing, sharpening, and thresholding.
 - How to use Python to perform simple measurements and calculations on an image.
 - Through a series of examples and exercises, you will gain a practical understanding of how to use Python to manipulate images, and gain confidence in your ability to incorporate image processing techniques into your research.
+
+## Worshop Format
+
+See the [workshop structure](/workshops/info) page for more information about general workshop format.

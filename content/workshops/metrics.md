@@ -44,3 +44,5 @@ This workshop will consist of a mix of presentation materials and interactive co
 1. Metrics Presentation & Coding Examples (60 minutes) - We'll cover a selection of metrics (tailored to the audience) and intersperse several interactive sections. Participants will then have an opportunity to try out some of the concepts covered in the presentation using interactive code examples that they can run in their web browsers.
 1. Q&A and Wrap-up (10 minutes) - We'll end the workshop with a brief Q&A session to ensure that all participants' questions have been answered and to provide additional resources for further learning.
 1. By incorporating live coding examples throughout the workshop, we hope to make the material more engaging and interactive, and give participants the opportunity to apply what they've learned in a practical way.
+
+See the [workshop structure](/workshops/info) page for more information about general workshop format.

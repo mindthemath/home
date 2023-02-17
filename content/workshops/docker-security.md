@@ -61,3 +61,5 @@ This workshop will cover a range of security considerations for Docker container
 - Best practices for securing Docker containers, networks, and images
 
 The workshop will be structured to include a mix of lecture-style presentation and hands-on exercises to help participants gain practical experience with Docker security concepts.
+
+See the [workshop structure](/workshops/info) page for more information about general workshop format.

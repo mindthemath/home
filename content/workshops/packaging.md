@@ -59,3 +59,5 @@ This workshop will be structured as a combination of lectures, demonstrations, a
 You will be provided with a sample project that you will use to package and distribute your code.
 
 Note: conda packaging would encompass a separate followup workshop, as it is quite a bit more involved.
+
+See the [workshop structure](/workshops/info) page for more information about general workshop format.

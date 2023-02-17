@@ -38,3 +38,5 @@ At the end of this workshop, participants will be able to:
 - Evaluate feasibility of reproducing results from papers with and without access to code
 - Identify gaps in current research and propose future directions for research.
 - Through these learning outcomes, participants will gain the skills and knowledge necessary to become more efficient and effective readers of research papers, and to evaluate the reliability and relevance of the research presented.
+
+See the [workshop structure](/workshops/info) page for more information about general workshop format.

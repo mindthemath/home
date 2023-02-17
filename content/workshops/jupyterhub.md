@@ -49,6 +49,9 @@ By the end of this workshop, participants will:
 
 ## Workshop Structure
 
+This is a longer workshop, with a minimum time format of 3 hours.
+See the [workshop structure](/workshops/info) page for more information about general workshop format.
+
 1. Introduction to JupyterHub
    - What is JupyterHub
    - Benefits of using JupyterHub for academic research teams

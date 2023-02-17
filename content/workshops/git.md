@@ -54,7 +54,10 @@ In this lesson plan, participants will learn about version control and how it re
     - The ability to easily review changes and go back in time to previous versions
     - Using Git to collaborate with other researchers and make your work more accessible to others
 
-## Conclusion
+## Learning Outcomes
 
 By the end of this lesson plan, participants should have a solid understanding of version control and Git, and be able to effectively use Git to manage their research projects. Whether you are a student or a PI, using version control can help you to be more organized, efficient, and collaborative in your research endeavors.
 
+## Workshop Format
+
+See the [workshop structure](/workshops/info) page for more information about general workshop format.

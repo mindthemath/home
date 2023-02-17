@@ -42,4 +42,6 @@ At the end of this workshop, participants will be able to:
 
 ## Workshop Format
 1. Presentation: The workshop will consist of a 45-minute presentation that covers the basics of how the web works and the various options for sharing research.
-2. Practice: An optional 1-2 hour workshop where participants will have the opportunity to work with a demonstration of deploying a research app using one of the options covered in the workshop.
+2. Practice: An optional multi-hour workshop where participants will have the opportunity to work with a demonstration of deploying a research app using one of the options covered in the workshop.
+
+See the [workshop structure](/workshops/info) page for more information about general workshop format.
