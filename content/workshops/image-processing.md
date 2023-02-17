@@ -1,6 +1,6 @@
 ---
 title: "Digital Image Processing with Python"
-weight: 21
+weight: 11
 aliases: ["images", "/images"]
 tags: ["image-processing", "python", "numpy", "scipy", "matplotlib"]
 categories: ["workshops", "data-science"]

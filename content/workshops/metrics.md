@@ -1,6 +1,6 @@
 ---
 title: "Metrics Menagerie: Understanding Metrics for Scientific and ML Applications"
-weight: 20
+weight: 12
 aliases: ["/metrics", "metrics-melangerie", "/metrics-melangerie"]
 tags: ["metrics", "machine learning", "mathematics"]
 categories: ["workshops", "data science"]
