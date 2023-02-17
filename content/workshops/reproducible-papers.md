@@ -1,8 +1,8 @@
 ---
 title: "Reproducible Research Papers"
 weight: 5
-aliases: []
-tags: ["reproduciblility", "research", "publications", "science"]
+aliases: ["reproducibility", "/reproducibility"]
+tags: ["reproducibility", "research", "publications", "science"]
 categories: ["workshops"]
 showToc: true
 TocOpen: true

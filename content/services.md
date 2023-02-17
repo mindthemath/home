@@ -39,11 +39,11 @@ Whether you're looking to improve your data science and machine learning skills,
 Our workshops are designed to educate and train teams in the latest methods and techniques for data science and machine learning. 
 We offer a variety of topics, including:
 
-- Understanding Git and version control practices for software development
-- Best practices for tracking and retrieving experimental results for collaboration-at-scale
-- Essential math concepts for evaluating the quality of your data engineering pipelines
-- Strategies for managing and visualizing large datasets
-- Techniques for improving model performance and avoiding overfitting
+- The research-to-production pipeline, from [reading papers](/workshops/papers) to [reproducing](/workshops/reproducibility) them, as well as [sharing](/workshops/packaging) your work [interactively](/workshops/web-apps) on the web or with [presentations](/workshops/presentations)
+- Understanding [Git](/workshops/git) and version control practices for software development
+- Best practices for [tracking](/workshops/mlflow) and retrieving experimental results for collaboration-at-scale
+- Math essentials for [measuring](/workshops/metrics) the quality of your data engineering pipelines or model performance
+- Strategies for managing and [visualizing](/workshops/matplotlib) large datasets and working with [images](/workshops/images)
 
 All of our workshops are tailored to your specific audience and needs, and can include presentation, discussion, hands-on components, and a focus on your use case. 
 
