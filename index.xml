@@ -199,6 +199,15 @@ Schedule a Call </description>
     </item>
     
     <item>
+      <title>Architecture-Aware Docker</title>
+      <link>http://mindthemath.com/blog/arch-aware-docker/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/blog/arch-aware-docker/</guid>
+      <description>Building Docker Images that Can Run on Any Architecture: A Guide for Developers</description>
+    </item>
+    
+    <item>
       <title>About the Pandas SettingWithCopyWarning</title>
       <link>http://mindthemath.com/blog/pd-set-copy/</link>
       <pubDate>Tue, 30 Aug 2022 11:30:03 +0000</pubDate>

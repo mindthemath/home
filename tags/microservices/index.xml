@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blogs on Mind the Math</title>
-    <link>http://mindthemath.com/blog/</link>
-    <description>Recent content in Blogs on Mind the Math</description>
+    <title>microservices on Mind the Math</title>
+    <link>http://mindthemath.com/tags/microservices/</link>
+    <description>Recent content in microservices on Mind the Math</description>
     <image>
       <url>http://mindthemath.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://mindthemath.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
@@ -11,16 +11,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Mind the Math LLC</copyright>
-    <lastBuildDate>Thu, 15 Dec 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://mindthemath.com/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Nginx Resources</title>
-      <link>http://mindthemath.com/blog/staging/</link>
-      <pubDate>Thu, 15 Dec 2022 11:30:03 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/blog/staging/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 12 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://mindthemath.com/tags/microservices/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Architecture-Aware Docker</title>
       <link>http://mindthemath.com/blog/arch-aware-docker/</link>
@@ -28,15 +19,6 @@
       
       <guid>http://mindthemath.com/blog/arch-aware-docker/</guid>
       <description>Building Docker Images that Can Run on Any Architecture: A Guide for Developers</description>
-    </item>
-    
-    <item>
-      <title>About the Pandas SettingWithCopyWarning</title>
-      <link>http://mindthemath.com/blog/pd-set-copy/</link>
-      <pubDate>Tue, 30 Aug 2022 11:30:03 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/blog/pd-set-copy/</guid>
-      <description>How to fix an annoying warning.</description>
     </item>
     
   </channel>

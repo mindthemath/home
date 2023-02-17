@@ -10,7 +10,8 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Mind the Math LLC</copyright><atom:link href="http://mindthemath.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Mind the Math LLC</copyright>
+    <lastBuildDate>Mon, 12 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://mindthemath.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sharing Research with the Public: Interactive Web Applications</title>
       <link>http://mindthemath.com/workshops/web-apps/</link>
@@ -27,6 +28,15 @@
       
       <guid>http://mindthemath.com/workshops/docker-security/</guid>
       <description>Learn the best practices for securing Docker containers, including managing access control, creating secure networks, and properly configuring port exposure.</description>
+    </item>
+    
+    <item>
+      <title>Architecture-Aware Docker</title>
+      <link>http://mindthemath.com/blog/arch-aware-docker/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/blog/arch-aware-docker/</guid>
+      <description>Building Docker Images that Can Run on Any Architecture: A Guide for Developers</description>
     </item>
     
   </channel>

@@ -67,6 +67,27 @@
     <loc>http://mindthemath.com/tags/web/</loc>
     <lastmod>2022-12-15T11:30:03+00:00</lastmod>
   </url><url>
+    <loc>http://mindthemath.com/tags/architecture/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/blog/arch-aware-docker/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/tags/cloud/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/categories/containerization/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/tags/devops/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/tags/docker/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/tags/microservices/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://mindthemath.com/blog/pd-set-copy/</loc>
     <lastmod>2022-08-30T11:30:03+00:00</lastmod>
   </url><url>
@@ -94,8 +115,6 @@
     <loc>http://mindthemath.com/categories/data-science/</loc>
   </url><url>
     <loc>http://mindthemath.com/categories/devops/</loc>
-  </url><url>
-    <loc>http://mindthemath.com/tags/docker/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/docker-compose/</loc>
   </url><url>

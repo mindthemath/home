@@ -40,6 +40,51 @@
     </item>
     
     <item>
+      <title>architecture</title>
+      <link>http://mindthemath.com/tags/architecture/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud</title>
+      <link>http://mindthemath.com/tags/cloud/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devops</title>
+      <link>http://mindthemath.com/tags/devops/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>http://mindthemath.com/tags/docker/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microservices</title>
+      <link>http://mindthemath.com/tags/microservices/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>pandas</title>
       <link>http://mindthemath.com/tags/pandas/</link>
       <pubDate>Tue, 30 Aug 2022 11:30:03 +0000</pubDate>
@@ -99,15 +144,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/tags/containers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>docker</title>
-      <link>http://mindthemath.com/tags/docker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/tags/docker/</guid>
       <description></description>
     </item>
     
