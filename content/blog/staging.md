@@ -1,8 +1,8 @@
 ---
 title: "Nginx Resources"
-date: 2022-12-15T11:30:03+00:00
+date: 2022-12-15
 # weight: 1
-# aliases: ["/first"]
+aliases: ["/nginx"]
 tags: ["servers", "nginx", "web"]
 categories: ["resources"]
 showToc: false
@@ -11,8 +11,8 @@ draft: false
 math: true
 hidemeta: false
 comments: false
-description: "Desc Text."
-canonicalURL: "https://canonical.url/to/page"
+description: "Helpful resources for nginx configuration"
+summary: "Helpful resources for nginx configuration"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false

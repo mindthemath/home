@@ -1,12 +1,18 @@
 ---
 title: "Variational PDEs"
 weight: 300
-aliases: ["variational-pdes"]
+date: 2023-01-12
+aliases: ["variational-pdes", "/pdes"]
 tags: ["mathematics", "physics", "numerical methods"]
 categories: ["workshops"]
 description: "Learn the basics of variational partial differential equations and their numerical solution. Understand the connection between functionals, the Euler-Lagrange equation, and PDEs. Gain familiarity with variational methods and the finite element method for the numerical solution of PDEs."
+summary: "Information about an upcoming workshop on variational partial differential equations."
+hideSummary: false
 hidemeta: false  # "suggest changes"
 math: true
+ShowReadingTime: true
+ShowPostNavLinks: true
+ShowWordCount: true
 cover:
     image: "" # image path/url
     alt: "<alt text>" # alt text
@@ -14,6 +20,8 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
+
+_Note_ this is a draft of an upcoming workshop containing a super-set of contextual information about this complicated topic. This workshop is not yet complete but please express interest in its development [by reaching out](/contact).
 
 ## Motivations
 Partial differential equations (PDEs) are essential tools for describing many natural phenomena, ranging from fluid dynamics to quantum mechanics.

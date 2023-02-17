@@ -12,12 +12,13 @@ math: true
 hidemeta: false
 comments: false
 description: "How to fix an annoying warning."
+summary: "How to fix an annoying warning."
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: false
-ShowReadingTime: false
+ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true

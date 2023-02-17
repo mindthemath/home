@@ -16,7 +16,9 @@ showToc: true
 TocOpen: true
 draft: false
 hidemeta: false
+hideSummary: false
 description: "Building Docker Images that Can Run on Any Architecture: A Guide for Developers"
+summary: "Building Docker Images that Can Run on Any Architecture: A Guide for Developers"
 ShowReadingTime: true
 cover:
     image: "<image path/url>" # image path/url
