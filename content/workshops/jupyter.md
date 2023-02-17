@@ -16,7 +16,8 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-Jupyter Notebooks are a powerful tool for researchers to organize and document their research process. In this workshop, we will cover best practices for using Jupyter Notebooks in research and provide hands-on demonstrations to help attendees better understand the benefits and limitations of this tool.
+Jupyter Notebooks are a powerful tool for researchers to organize and document their research process. 
+In this workshop, we will cover best practices for using Jupyter Notebooks in research and provide hands-on demonstrations to help attendees better understand the benefits and limitations of this tool.
 
 ## Learning Outcomes
 
@@ -28,12 +29,14 @@ Jupyter Notebooks are a powerful tool for researchers to organize and document t
 
 ## Who Should Attend
 
-This workshop is designed for academics who are looking to better organize their research process and take advantage of the benefits of Jupyter Notebooks. No prior experience with Jupyter Notebooks is required.
+This workshop is designed for academics and industry professionals who are looking to better organize their research process and take advantage of the benefits of Jupyter Notebooks.
+No prior experience with Jupyter Notebooks is required.
 
 
 # Jupyter Notebooks in the Research Process
 
-Jupyter notebooks are a powerful tool for researchers to organize, document, and share their work. In this lesson, we will cover best practices for effective use of Jupyter notebooks in the research process.
+Jupyter notebooks are a powerful tool for researchers to organize, document, and share their work.
+In this workshop, we will cover best practices for effective use of Jupyter notebooks as they pertain to interests and goals in the research "pipeline".
 
 ## Benefits of Using Jupyter Notebooks
 
@@ -53,11 +56,13 @@ Jupyter notebooks are a powerful tool for researchers to organize, document, and
 
 4. Version control: Use version control (such as Git) to keep track of changes to your notebooks and collaborate with others.
 
-5. Testing: Use unit tests to validate your code and make sure that it is working as expected.
+5. Packaging: Put re-usable code into a centralized place and use your notebooks to import these functionalities
 
-6. Visualization: Use visualizations to help explain and communicate your results. Make sure that your visualizations are clear and informative.
+6. Testing: Use unit tests to validate your code and make sure that it is working as expected.
 
-7. Sharing: Share your notebooks with others by using platforms such as GitHub or Google Colab.
+7. Visualization: Use visualizations to help explain and communicate your results. Make sure that your visualizations are clear and informative.
+
+8. Sharing: Share your notebooks with others by using platforms such as GitHub or Google Colab.
 
 By following these best practices, you can make the most of Jupyter notebooks in your research process and ensure that your work is organized, understandable, and reproducible.
 

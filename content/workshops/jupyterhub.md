@@ -18,23 +18,27 @@ cover:
 
 
 ## Introduction
-JupyterHub is a multi-user version of Jupyter Notebook, an open-source web application for interactive computing and data science. By deploying JupyterHub with Docker Compose, teams and labs of academic researchers can benefit from its features, such as increased computational reproducibility, fast and easy onboarding of new team members, and an operating system agnostic interface.
+JupyterHub is a multi-user version of Jupyter Notebook, an open-source web application for interactive computing and data science.
+By deploying JupyterHub with Docker Compose, teams and labs of academic researchers can benefit from its features, such as increased computational reproducibility, fast and easy onboarding of new team members, and an operating system agnostic interface.
 
-*Note*: This workshop is primarily targeted at PI's and members of faculty/administration, but students are also welcome to attend (and perhaps become their group's "maintainer"). Students can learn to maintain their own research environments, which will improve their individual contributions, but the greatest increases in productivity will come from adoption at the lab (or research group) level.
+*Note*: This workshop is primarily targeted at PI's and members of faculty/administration, but students are also welcome to attend (and perhaps become their group's "maintainer").
+Students can learn to maintain their own research environments, which will improve their individual contributions, but the greatest increases in productivity will come from adoption at the lab (or research group) level.
 
 ## Advantages of using JupyterHub
-By deploying JupyterHub with Docker Compose, academic researchers and teams can greatly benefit from its advantages, including increased computational reproducibility, fast onboarding of new members, and an operating system agnostic interface. The *ease* and *flexibility* of deploying JupyterHub with Docker Compose make it an ideal tool for collaborative research and data science.
+By deploying JupyterHub with Docker Compose, academic researchers and teams can greatly benefit from its advantages, including increased computational reproducibility, fast onboarding of new members, and an operating system agnostic interface.
+The *ease* and *flexibility* of deploying JupyterHub with Docker Compose make it an ideal tool for collaborative research and data science.
 
 - **Computational Reproducibility**: Docker containers allow for easy replication and distribution of research environments, ensuring that all team members are using the same software, libraries, and configurations.
 - **Onboarding**: New team members can quickly begin research by avoiding all the computational set-up. They have a working environment from the first day to begin focusing on innovating, not managing dependencies.
 - **OS Agnostic Interface**: By using JupyterHub through a web browser, the underlying operating system of team members' laptops or machines becomes less important. The laptop becomes a "thin-client", and all necessary tools are provided through the JupyterHub environment. Many different compute environments can be accessed through one consistent web-browser interface (to accomodate different lines of research inquiry).
+- **Extensibility**: By understanding the instrastructure underpinning Jupyter and JupyterHub, you can leverage it's open-source framework to manage and host any web-application as well as backend software to support it.
 
 
 ## Workshop Overview
 
 In this workshop, we will cover the process of deploying JupyterHub using Docker-Compose, including:
 
-- An overview of JupyterHub and why it's beneficial to teams of academic researchers
+- An overview of JupyterHub and why it's beneficial to teams of all shapes and sizes
 - An introduction to Docker-Compose and why it's well-suited to deploying JupyterHub
 - Steps for setting up and deploying a JupyterHub instance using Docker-Compose
 - Discussion of best practices for managing and scaling JupyterHub deployments
@@ -43,8 +47,8 @@ In this workshop, we will cover the process of deploying JupyterHub using Docker
 
 By the end of this workshop, participants will:
 
-- Understand the benefits of using JupyterHub for teams of academic researchers
-- Have hands-on experience deploying JupyterHub using Docker-Compose
+- Understand the benefits of using JupyterHub for teams of academic researchers and industry data scientists
+- Have seen the entire process of deploying and configuring JupyterHub using Docker-Compose
 - Be equipped to manage and scale JupyterHub deployments in their own academic environments
 
 ## Workshop Structure
