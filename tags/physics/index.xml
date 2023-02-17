@@ -10,13 +10,14 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Mind the Math LLC</copyright><atom:link href="http://mindthemath.com/tags/physics/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Mind the Math LLC</copyright>
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://mindthemath.com/tags/physics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Variational PDEs</title>
-      <link>http://mindthemath.com/workshops/pdes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>http://mindthemath.com/blog/pdes/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://mindthemath.com/workshops/pdes/</guid>
+      <guid>http://mindthemath.com/blog/pdes/</guid>
       <description>Learn the basics of variational partial differential equations and their numerical solution. Understand the connection between functionals, the Euler-Lagrange equation, and PDEs. Gain familiarity with variational methods and the finite element method for the numerical solution of PDEs.</description>
     </item>
     

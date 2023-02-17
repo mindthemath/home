@@ -11,11 +11,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Mind the Math LLC</copyright>
-    <lastBuildDate>Thu, 15 Dec 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://mindthemath.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://mindthemath.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mathematics</title>
+      <link>http://mindthemath.com/tags/mathematics/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/mathematics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>numerical methods</title>
+      <link>http://mindthemath.com/tags/numerical-methods/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/numerical-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>physics</title>
+      <link>http://mindthemath.com/tags/physics/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/tags/physics/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>nginx</title>
       <link>http://mindthemath.com/tags/nginx/</link>
-      <pubDate>Thu, 15 Dec 2022 11:30:03 +0000</pubDate>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/tags/nginx/</guid>
       <description></description>
@@ -24,7 +51,7 @@
     <item>
       <title>servers</title>
       <link>http://mindthemath.com/tags/servers/</link>
-      <pubDate>Thu, 15 Dec 2022 11:30:03 +0000</pubDate>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/tags/servers/</guid>
       <description></description>
@@ -33,7 +60,7 @@
     <item>
       <title>web</title>
       <link>http://mindthemath.com/tags/web/</link>
-      <pubDate>Thu, 15 Dec 2022 11:30:03 +0000</pubDate>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/tags/web/</guid>
       <description></description>
@@ -247,15 +274,6 @@
     </item>
     
     <item>
-      <title>mathematics</title>
-      <link>http://mindthemath.com/tags/mathematics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/tags/mathematics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>matplotlib</title>
       <link>http://mindthemath.com/tags/matplotlib/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -292,15 +310,6 @@
     </item>
     
     <item>
-      <title>numerical methods</title>
-      <link>http://mindthemath.com/tags/numerical-methods/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/tags/numerical-methods/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>numpy</title>
       <link>http://mindthemath.com/tags/numpy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -324,15 +333,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/tags/papers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>physics</title>
-      <link>http://mindthemath.com/tags/physics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mindthemath.com/tags/physics/</guid>
       <description></description>
     </item>
     

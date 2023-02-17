@@ -11,14 +11,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Mind the Math LLC</copyright>
-    <lastBuildDate>Thu, 15 Dec 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://mindthemath.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://mindthemath.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Variational PDEs</title>
+      <link>http://mindthemath.com/blog/pdes/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://mindthemath.com/blog/pdes/</guid>
+      <description>Learn the basics of variational partial differential equations and their numerical solution. Understand the connection between functionals, the Euler-Lagrange equation, and PDEs. Gain familiarity with variational methods and the finite element method for the numerical solution of PDEs.</description>
+    </item>
+    
     <item>
       <title>Nginx Resources</title>
       <link>http://mindthemath.com/blog/staging/</link>
-      <pubDate>Thu, 15 Dec 2022 11:30:03 +0000</pubDate>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>http://mindthemath.com/blog/staging/</guid>
-      <description>Desc Text.</description>
+      <description>Helpful resources for nginx configuration</description>
     </item>
     
     <item>

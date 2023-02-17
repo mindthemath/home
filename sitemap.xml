@@ -38,34 +38,47 @@
   </url><url>
     <loc>http://mindthemath.com/workshops/papers/</loc>
   </url><url>
-    <loc>http://mindthemath.com/workshops/pdes/</loc>
+    <loc>http://mindthemath.com/blog/pdes/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mindthemath.com/blog/</loc>
-    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mindthemath.com/categories/</loc>
-    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/tags/mathematics/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mindthemath.com/</loc>
-    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://mindthemath.com/tags/nginx/</loc>
-    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
+    <loc>http://mindthemath.com/tags/numerical-methods/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://mindthemath.com/blog/staging/</loc>
-    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/categories/resources/</loc>
-    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://mindthemath.com/tags/servers/</loc>
-    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
+    <loc>http://mindthemath.com/tags/physics/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mindthemath.com/tags/</loc>
-    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/categories/workshops/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/tags/nginx/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/blog/staging/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/categories/resources/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mindthemath.com/tags/servers/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mindthemath.com/tags/web/</loc>
-    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mindthemath.com/tags/architecture/</loc>
     <lastmod>2022-09-12T00:00:00+00:00</lastmod>
@@ -140,8 +153,6 @@
   </url><url>
     <loc>http://mindthemath.com/tags/machine-learning/</loc>
   </url><url>
-    <loc>http://mindthemath.com/tags/mathematics/</loc>
-  </url><url>
     <loc>http://mindthemath.com/tags/matplotlib/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/metrics/</loc>
@@ -150,15 +161,11 @@
   </url><url>
     <loc>http://mindthemath.com/tags/networking/</loc>
   </url><url>
-    <loc>http://mindthemath.com/tags/numerical-methods/</loc>
-  </url><url>
     <loc>http://mindthemath.com/tags/numpy/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/packaging/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/papers/</loc>
-  </url><url>
-    <loc>http://mindthemath.com/tags/physics/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/posters/</loc>
   </url><url>
@@ -203,8 +210,6 @@
     <loc>http://mindthemath.com/categories/visualization/</loc>
   </url><url>
     <loc>http://mindthemath.com/tags/web-applications/</loc>
-  </url><url>
-    <loc>http://mindthemath.com/categories/workshops/</loc>
   </url><url>
     <loc>http://mindthemath.com/workshops/</loc>
   </url>
