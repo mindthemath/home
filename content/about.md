@@ -7,7 +7,8 @@ draft: false
 math: false
 hidemeta: true
 comments: false
-# description: "Learn about Mind the Math, a multidisciplinary consulting firm that specializes in bridging the gap between theory and applications."
+description: ""
+summary: "Learn about Mind the Math, a multidisciplinary consulting firm that specializes in bridging the gap between theory and applications."
 disableHLJS: false
 disableShare: false
 ShareButtons: ["linkedin", "twitter", "reddit"]
