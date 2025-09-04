@@ -65,8 +65,8 @@ Our services include:
 At Mind the Math, we believe in transparent pricing. 
 Our [workshops](/workshops/) start at $3000, you can find detailed breakdowns on the [workshop information](/workshops/info/) page.
 
-Our consulting services start at $250 per hour.
-All prices are subject to customization based on the specific needs and requirements of each project.
+Consulting services [are available](https://buy.stripe.com/4gM9AS5Qy0F376109k87K00).
+
 
 ## Get in Touch
 
