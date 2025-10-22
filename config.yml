@@ -51,9 +51,9 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: ""
-    favicon16x16: ""
-    favicon32x32: ""
+    favicon: "https://cdn.mindthemath.com/logo.ico"
+    favicon16x16: "https://cdn.mindthemath.com/logo16.ico"
+    favicon32x32: "https://cdn.mindthemath.com/logo32.ico"
     apple_touch_icon: ""
     safari_pinned_tab: ""
 
@@ -66,9 +66,9 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Mind the Math"
-    subtitle: "Clarity for Computational Complexity"
+    subtitle: "Bridging The Gap"
     # imageUrl: "https://www.mpilosov.com/profile.webp"  # TODO image
-    imageUrl: "https://fs.clfx.cc/i/mtm-logo-sm.png"
+    imageUrl: "https://cdn.mindthemath.com/logo-450-cb.png"
     imageWidth: 150
     imageHeight: 150
     # imageTitle: profile-pic
