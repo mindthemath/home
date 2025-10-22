@@ -68,7 +68,7 @@ params:
     title: "Mind the Math"
     subtitle: "Bridging The Gap"
     # imageUrl: "https://www.mpilosov.com/profile.webp"  # TODO image
-    imageUrl: "https://cdn.mindthemath.com/logo-450-cb.png"
+    imageUrl: "https://cdn.mindthemath.com/logo-512-cb.png"
     imageWidth: 150
     imageHeight: 150
     # imageTitle: profile-pic
