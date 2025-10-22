@@ -1,5 +1,5 @@
 ---
-title: "Mind the Math: Innovating at the Speed of Thought"
+title: "Mind the Math: Bridging The Gap Between Theory & Practice"
 weight: 1
 tags: ["consulting", "mathematics", "software development"]
 categories: ["about"]
