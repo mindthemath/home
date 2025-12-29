@@ -9,7 +9,7 @@ ShareButtons: ["linkedin", "twitter", "reddit"]
 disableShare: true
 ShowPostNavLinks: false
 cover:
-    image: "https://files.clfx.cc/i/conference-sm.jpg" # image path/url
+    image: "https://fs.clfx.cc/i/conference-sm.jpg" # image path/url
     alt: "<alt text>" # alt text
     caption: "<caption text>" # display caption under cover
     relative: false # when using page bundles set this to true

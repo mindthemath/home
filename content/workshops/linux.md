@@ -9,7 +9,7 @@ TocOpen: false
 description: "Learn the Basics of GNU+Linux for More Effective Research"
 hidemeta: false  # "suggest changes"
 cover:
-    image: "https://files.clfx.cc/i/all-cores.jpg" # image path/url
+    image: "https://fs.clfx.cc/i/all-cores.jpg" # image path/url
     alt: "<alt text>" # alt text
     caption: "<aption text>" # display caption under cover
     relative: false # when using page bundles set this to true

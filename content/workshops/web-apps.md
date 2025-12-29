@@ -7,7 +7,7 @@ categories: ["workshops"]
 description: "Learn to share your research with the broader public by creating interactive web applications."
 hidemeta: false  # "suggest changes"
 cover:
-    image: "https://files.clfx.cc/i/presenting.jpg" # image path/url
+    image: "https://fs.clfx.cc/i/presenting.jpg" # image path/url
     alt: "<alt text>" # alt text
     caption: "<caption text>" # display caption under cover
     relative: false # when using page bundles set this to true

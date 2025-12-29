@@ -7,7 +7,7 @@ categories: ["workshops"]
 description: "Enhance Your Presentation Skills and Improve Your Research Communication with LaTeX"
 hidemeta: false  # "suggest changes"
 cover:
-    image: "https://files.clfx.cc/i/poster_siam_cse19-sm.jpg" # image path/url
+    image: "https://fs.clfx.cc/i/poster_siam_cse19-sm.jpg" # image path/url
     alt: "<alt text>" # alt text
     caption: "<caption text>" # display caption under cover
     relative: false # when using page bundles set this to true
